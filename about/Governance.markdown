@@ -16,15 +16,14 @@ sidebar:
 		<em>Modernism/modernity</em>, comprise the MSA's Board of
 	Trustees.</p>
 	
-<p><b>President</b>: <a href="mailto:mbradshaw@luc.edu"
-	>Melissa Bradshaw</a>, Loyola University Chicago</p>
+<p><b>President</b>: <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>, New York Institute of Technology</p>
 	
-<p><b>First Vice President</b>: <a href="mailto:agolde01@nyit.edu">Amanda Golden</a>, New York Institute of Technology</p>
+<p><b>First Vice President</b>: <a href="mailto:rhigney@ccny.cuny.edu">Robert Higney</a>, The City College of New York</p>
 	
-<p><b>Second Vice President</b>: <a href="mailto:rhigney@ccny.cuny.edu">Robert Higney</a>, The City College of New York</p>
+<p><b>Second Vice President</b>: <a href="mailto:bronstein@jhu.edu">Michaela Bronstein</a>, Johns Hopkins University</p>
 
-<p><b>Past President</b>: <a href="mailto:ogonzale@wellesley.edu"
-	>Octavio González</a>, Wellesley College</p>
+<p><b>Past President</b>: <a href="mailto:mbradshaw@luc.edu"
+	>Melissa Bradshaw</a>, Loyola University Chicago</p>
 
 <p><b>Chair, Interdisciplinary Studies</b>: <a
 		href="mailto:joel.rhone@louisiana.edu">Joel Terence Rhone</a>, University of Louisiana</p>
@@ -34,27 +33,25 @@ sidebar:
 		>Yasna Bozhkova</a>, Université Paris Nanterre</p>
 		
 <p><b>Chair, Membership &amp; Elections</b>: <a
-	href="mailto:kweingarten@qc.cuny.edu">Karen Weingarten</a>, CUNY Queens College<br />
-
+	href="mailto:tamlyn.avery@adelaide.edu.au">Tamlyn Avery</a>, Adelaide University</p>
 
 <p><b>Chair, Program</b>: <a href="mailto:matthewlevay@isu.edu"
 		>Matthew Levay</a>, Idaho State University</p>
 		
-<p><b>Vice-Chair, Program</b>: <a href="mailto:Sarah.Cornish@unco.edu"
-	>Sarah Cornish</a>, University of Northern Colorado</p>
+<p><b>Vice-Chair, Program</b>: <a href="mailto:joycec@uoregon.edu"
+	>Joyce Cheng</a>, University of Oregon</p>
 	
 <p><b>Chair, Finance</b> (Treasurer): <a
-		href="mailto:stephanie.tavera@tamuk.edu">Stephanie Tavera</a>, Texas A&M University, Kingsville<br />
+		href="mailto:stephanie.tavera@tamuk.edu">Stephanie Tavera</a>, Texas A&M University, Kingsville</p>
 		
 <p><b>Chair, Technology and Infrastructure</b>: <a
-	href="mailto:nathanis@gvsu.edu">Steven Nathaniel</a>,
-	Grand Valley State University</p>
+	href="mailto:cmak@qc.cuny.edu">Cliff Mak</a>, CUNY Queens College</p>
 	
 <p><b>Contingent Faculty Representative</b>: <a
 	href="mailto:ncannon@stanford.edu">Nissa Cannon</a>, Stanford University</p>
 	
 <p><b>Graduate Student Representative</b>: <a
-		href="mailto:jessica.masters@sydney.edu.au">Jessica Masters</a>, University of Sydney</p>
+		href="mailto:hkim35@nd.edu">Hyunsoo Kim</a>, University of Notre Dame</p>
 		
 <p><b>Co-Editors of <em><i>Modernism/modernity</i></em></b>: <br />
 
