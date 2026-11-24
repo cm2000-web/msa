@@ -261,7 +261,7 @@ An innovative, richly detailed and relentlessly nuanced work, <em>Turn the World
 Traversing expansive chronological and spatial terrains, from the garden city movement in the British Empire to development in the Brexit era, Vijay’s <em>Topothesia</em> creatively bridges the domains of literature and urban planning. This ambitious and provocative study argues that urban planning is a form of “speculative fiction… compelled to produce elaborate fantasies of future places.” With the literary device of topothesia, or the vivid description of an imaginary place, as its theoretical anchor, the book reveals how city planning leveraged literary aesthetics to manage and discipline people and spaces perceived as “in excess” of proper modernity – and how new counter-imaginaries emerged, in turn. 
 </p>
 
-<hr /> 				
+<hr /> 		
 <p><strong>Nominating Committee:</strong> Aglaya Glebova, University of California, Berkeley (Co-chair), Noreen Masud, University of Bristol (Co-chair), Jonathan Foltz, Boston University	</p>						
 
 <hr />
@@ -326,7 +326,7 @@ Among the array of Turkish literature available in English, one of the most glar
 <!-- FIRST NOMINEE -->
 <img src="https://pup-assets.imgix.net/onix/images/9780691230634.jpg" alt="book cover" width="100" height="150" align="right" />
 
-<h4>WINNER: Peter Kalliney, <em><a 	href="https://press.princeton.edu/books/hardcover/9780691230634/the-aesthetic-cold-war" 	target="_blank">The Aesthetic Cold War</a></em> (Princeton University Press, 2022)</h4>
+<h4>WINNER: Peter Kalliney, <em><a href="https://press.princeton.edu/books/hardcover/9780691230634/the-aesthetic-cold-war" target="_blank">The Aesthetic Cold War</a></em> (Princeton University Press, 2022)</h4>
 
 <p>The Aesthetic Cold War is a major revision of our picture of Cold War aesthetics and politics, giving us a far more complex picture of old narratives of cultural co-option during literary decolonization. Kalliney’s is the new standard work on the relation of decolonial-era writers to Soviet realism, CIA funding, and cold war politics. He argues that many key debates in postcolonial studies — autonomy against political utility, indigeneity versus
 cosmopolitanism — were “formed in the crucible of the aesthetic cold
@@ -336,7 +336,7 @@ elsewhere, this book is an astonishing archival achievement, mixing new findings
 
 <img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/81/9780226816678.jpg/jcr:content/9780226816678.jpg" alt="" width="100" height="150" align="right" />
 
-<h4>HONORABLE MENTION: Michael Lucey, <em><a 	href="https://press.uchicago.edu/ucp/books/book/chicago/W/bo130500168.html" 	target="_blank">What Proust Heard: Novels and the 	Ethnography of Talk</a></em> (University of Chicago Press, 2022)</h4>
+<h4>HONORABLE MENTION: Michael Lucey, <em><a href="https://press.uchicago.edu/ucp/books/book/chicago/W/bo130500168.html" target="_blank">What Proust Heard: Novels and the Ethnography of Talk</a></em> (University of Chicago Press, 2022)</h4>
 
 <p>What Proust Heard is an astonishing linguistic experiment in the
 	monograph form, by the way of "language-in-use" in Proust. Lucey
@@ -353,7 +353,7 @@ elsewhere, this book is an astonishing archival achievement, mixing new findings
 <!-- THIRD NOMINEE -->
 <img src="https://cornellpress-us.imgix.net/covers/9781501762352.jpg" alt="" width="100" height="150" align="right" />
 
-<h4>Bette London, <em><a href="">Posthumous Lives: World War I 	and the Culture of Memory</a></em> (Cornell University Press, 2022) </h4>
+<h4>Bette London, <em><a href="">Posthumous Lives: World War I and the Culture of Memory</a></em> (Cornell University Press, 2022) </h4>
 <p><em>Posthumous Lives</em> is an innovative and beautifully written
 	cultural history of the afterlife of World War I and its
 	commemoration in Britain. Bette London addresses an exciting range
@@ -374,7 +374,7 @@ elsewhere, this book is an astonishing archival achievement, mixing new findings
 
 <!-- FOURTH NOMINEE -->
 <img src="https://yale-press-us.imgix.net/covers/9780300247268.jpg" alt="" width="100" height="150" align="right" />
-<h4>Kobena Mercer, <em><a 	href="https://yalebooks.yale.edu/book/9780300247268/alain-locke-and-the-visual-arts/" 	target="_blank">Alain Locke and the Visual Arts</a></em> (Yale University Press, 2022)</h4>
+<h4>Kobena Mercer, <em><a href="https://yalebooks.yale.edu/book/9780300247268/alain-locke-and-the-visual-arts/" target="_blank">Alain Locke and the Visual Arts</a></em> (Yale University Press, 2022)</h4>
 <p>
 	<em>Alain Locke and the Visual Arts</em> is a visually stunning and
 	deeply learned re-reading of Locke as a cultural and also artistic
@@ -392,7 +392,7 @@ elsewhere, this book is an astonishing archival achievement, mixing new findings
 	African and modernist art criticism to come. </p>
 <!-- FIFTH NOMINEE -->
 <img src="https://edinburghuniversitypress.com/media/catalog/product/cache/c57119711f6f6be310d32fe7539c40f3/9/7/9781474482424_1.jpg" alt="" width="100" height="150" align="right" />
-<h4>Arthur Rose, <em><a 	href="https://edinburghuniversitypress.com/book-asbestos-the-last-modernist-object.html" 	target="_blank">Asbestos–The Last Modernist Object</a></em> (Edinburgh University Press, 2022)</h4>
+<h4>Arthur Rose, <em><a href="https://edinburghuniversitypress.com/book-asbestos-the-last-modernist-object.html" target="_blank">Asbestos–The Last Modernist Object</a></em> (Edinburgh University Press, 2022)</h4>
 <p>This surprising and original history of asbestos offers a compelling
 	investigation of the material as a modernist object. The book shows
 	us what literary criticism can do differently in attending to
@@ -411,7 +411,7 @@ elsewhere, this book is an astonishing archival achievement, mixing new findings
 	scholarship.</p>
 <!-- SIXTH NOMINEE -->
 <img src="https://assets.cambridge.org/97810092/23140/cover/9781009223140.jpg" alt="" width="100" height="150" align="right" />
-<h4>Paul Stasi, <em><a 	href="https://www.cambridge.org/core/books/persistence-of-realism-in-modernist-fiction/15AD4C15FA7546DFF6B1D6CBCFA16416" 	target="_blank">The Persistence of Realism in Modernist 	Fiction</a></em> (Cambridge University Press, 2022)
+<h4>Paul Stasi, <em><a href="https://www.cambridge.org/core/books/persistence-of-realism-in-modernist-fiction/15AD4C15FA7546DFF6B1D6CBCFA16416" target="_blank">The Persistence of Realism in Modernist Fiction</a></em> (Cambridge University Press, 2022)
 	</h4>
 
 <p>Paul Stasi’s <em>The Persistence of Realism in Modernist Fiction</em>, a thorough defense of the insuperable dialectic of
@@ -442,25 +442,25 @@ elsewhere, this book is an astonishing archival achievement, mixing new findings
 <!-- FIRST NOMINEE -->
 <div>
 	<img src="https://yale-press-us.imgix.net/covers/9780300254037.jpg" width="100" height="150" align="left" style="padding:10px;" />
-<h4>CO-WINNER: Aglaya Glebova, <em><a 		href="https://yalebooks.yale.edu/book/9780300254037/aleksandr-rodchenko/" 		target="_blank">Aleksandr Rodchenko: Photography in 		the Time of Stalin</a></em> (Yale University Press, 2022)</h4>
+<h4>CO-WINNER: Aglaya Glebova, <em><a href="https://yalebooks.yale.edu/book/9780300254037/aleksandr-rodchenko/" target="_blank">Aleksandr Rodchenko: Photography in the Time of Stalin</a></em> (Yale University Press, 2022)</h4>
 <p>Aglaya Glebova’s elegant study of Aleksandr Rodchenko’s “shadow oeuvre” has the feel of an instant classic. At once subtle and ambitious, the book illuminates an era—that of the first Five Year Plans (1928-1938)—in a way that will engage both art historians and literary scholars. Through the lens of the single artist study, Glebova shows how, despite their origin in government propaganda efforts, Rodchenko’s knotty, eclectic images fail to correspond to the ideal of the new Soviet citizen. Focusing her critical gaze on an aesthetics of prolongation and dwelling rather than action, and on the porous and provisional, rather than crisis or rupture, Glebova defamiliarizes a set of photographic concepts (perspective, color, instantaneity, montage) and art historical categories, from portraiture and landscape to the photo essay and album. <em>Aleksandr Rodchenko: Photography in the Time of Stalin</em> reconsiders the relation of art to totalitarianism, elucidating a variety of “paths and potentialities” beyond mere complicity, and asking how photography might “hold open the vicissitudes of a moment.”</p>
 </div>
 
 <div>
 	<img src="https://fdslive.oup.com/covers/gab/180-0-72-jpg-RGB-85/9780192895899.jpg" width="100" height="150" align="left" style="padding:10px;" />
-<h4>CO-WINNER: Noreen Masud, <em><a 		href="https://global.oup.com/academic/product/stevie-smith-and-the-aphorism-9780192895899" 		target="_blank">Stevie Smith and the Aphorism: Hard 		Language</a></em> (Oxford University Press, 2022)</h4>
+<h4>CO-WINNER: Noreen Masud, <em><a href="https://global.oup.com/academic/product/stevie-smith-and-the-aphorism-9780192895899" target="_blank">Stevie Smith and the Aphorism: Hard Language</a></em> (Oxford University Press, 2022)</h4>
 <p>One wouldn’t expect a book tightly focused on a single poet and a small form to feel expansive, but this is precisely the case with Noreen Masud’s delightful and inventive <em>Stevie Smith and the Aphorism: Hard Language</em>. Aphorism, in Masud’s astute theorization, offers a “safe form” for dangerous feeling, lingering at the “edge of conversation” and accommodating “femaleness, queerness, illness, outsiderhood, and unhearability.” With its “acrobatics of display and effacement,” aphoristic poetry functions as a “self-concealing mode of protest.” Each chapter interweaves Smith’s poetry with her drawings, exploring various sources of aphoristic contradiction, including classics, proverbs, etiquette guides, refrains, quotations, fairytales, captions, and fragments. The book wears its feminism lightly, dodging the logic of subversion and considering the complexity of midcentury women’s writing via Smith’s vexed relation to the “appropriate” and her conjunction of waste and frugality, significance and dismissibility. One need not be versed in Stevie Smith or even in poetry to love reading this quirky and surprising book. </p>
 </div>
 <div>
 	<img src="https://fdslive.oup.com/covers/gab/180-0-72-jpg-RGB-85/9780192863331.jpg" width="100" height="150" align="right" style="padding:10px;" />
-<h4>Doug Battersby, <em><a 		href="https://global.oup.com/academic/product/troubling-late-modernism-9780192863331" 		target="_blank">Troubling Late Modernism: Ethics, 		Feeling, and the Novel Form</a></em> (Oxford University Press, 2022)</h4>
+<h4>Doug Battersby, <em><a href="https://global.oup.com/academic/product/troubling-late-modernism-9780192863331" target="_blank">Troubling Late Modernism: Ethics, Feeling, and the Novel Form</a></em> (Oxford University Press, 2022)</h4>
 <p><em>Troubling Late Modernism</em> troubled us as critics, in challenging and exciting ways. The authors Doug Battersby examines look back on the developments of modernist literary form—its ability to align readers’ perspectives with characters, the deciphering demands it places on readers—and say something like: <em>This is a powerful narrative tool—and perhaps an evil one?</em> Through dazzlingly precise, detailed, and convincing close readings, Battersby examines the ways these authors put us as readers in morally compromised—or victimized—positions. Nabokov sets up the reader like a victim of harassment, made to feel perversely complicit when she imputes a sexual meaning to language; Morrison’s novels offer “enforced intimacies.” Often merely trying to understand a novel seems to require the reader to participate in an eroticizing impulse that might be morally monstrous. Battersby refuses to accede to the critical tendency to convert erotic descriptions of abused women into philosophical problems about the nature of language, asking us, instead, to see close reading as an ethical practice—indeed, the only practice capable of exposing and doing justice to the most intense and disturbing elements of modernist form.</p>
 </div>
 <!-- SECOND NOMINEE -->
 <!-- THIRD NOMINEE -->
 <div>
 	<img src="https://d1ks1q58ecczx4.cloudfront.net/folio-modified-assets/s/1/1639499523/northwest_298W/3641.jpg?dpr=2&q=100" width="100" height="150" align="right" style="padding:10px;" />
-<h4>Preetha Mani, <em><a 		href="https://nupress.northwestern.edu/9780810144996/the-idea-of-indian-literature/" 		target="_blank">The Idea of Indian Literature: 		Gender, Genre, and Comparative Method</a></em> (Northwestern University Press/FlashPoints, 2022) </h4>
+<h4>Preetha Mani, <em><a href="https://nupress.northwestern.edu/9780810144996/the-idea-of-indian-literature/" target="_blank">The Idea of Indian Literature: Gender, Genre, and Comparative Method</a></em> (Northwestern University Press/FlashPoints, 2022) </h4>
 <p><em>The Idea of Indian Literature</em> offers an exciting approach to both world literature and comparative literature. The book advances a new methodology that unhooks national literature from language, attending instead to anti-vernacular projects of regional and national literature in India. This precise and detailed study moves among Hindi, Tamil, and Anglophone literature to advance an understanding of world literature grounded not in a fixed corpus but, rather, in a dynamic method of worlding: responses to shifting understandings of literary value, constructions of literary history, and emergent understandings of readership. In this expansive theorization of modernism, the undertheorized realist short story, with its persistent tropes of a feminized modernity, emerges as a powerful new site. The author reveals a utopian cosmopolitanism that emerges with and through regional and national frames, moving beyond critiques of world literature as essentially European or Western. Lucid and ambitious, this book ends with a provocative coda, “Ten Theses on Indian Literature,” which offers fresh insights to scholars of gender, translation, global modernisms, postcolonial studies, and the institutional turn in literary studies. </p>
 </div>
 <!-- FOURTH NOMINEE -->
@@ -468,7 +468,7 @@ elsewhere, this book is an astonishing archival achievement, mixing new findings
 <!-- FIFTH NOMINEE -->
 <div>
 	<img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/80/9780226806914.jpg/jcr:content/9780226806914.jpg" width="100" height="150" align="right" style="padding:10px;" />
-<h4>Autumn Womack, <em><a 		href="https://press.uchicago.edu/ucp/books/book/chicago/M/bo114655831.html" 		target="_blank">The Matter of Black Living: The 		Aesthetic Experiment of Racial Data, 	1880-1930</a></em> (University of Chicago Press, 2022)</h4>
+<h4>Autumn Womack, <em><a href="https://press.uchicago.edu/ucp/books/book/chicago/M/bo114655831.html" target="_blank">The Matter of Black Living: The Aesthetic Experiment of Racial Data, 1880-1930</a></em> (University of Chicago Press, 2022)</h4>
 <p>We’re perhaps a little too quick to tell stories in which the idea of data, or of documentation, marks a form of epistemic violence imposed on African American life by white outsiders—or so Autumn Womack argues, declaring that, by contrast, “data is not this book’s antagonist.” Charting a rigorous, artful course between two equally unsatisfying extremes—black sociability as fundamentally undocumentable in its fugitive quality on the one hand; the fantasy of unimpeachably good data on the other—<em>The Matter of Black Living</em> demonstrates, via original and compelling archival analysis, the ways African American people have seen in data a horizon for their own creative practice. Despite the pervasiveness of a white documentary gaze, the forms of data Womack examines—the social survey, photographs of lynching survivors, documentary film—persistently reveal African American subjects and artists as analysts and users of documentation technology itself, drawing our attention to the ways these formats can point our attention to their own limitations. The book ends by asking: “how to document the sociality of black life?” The history it tells ensures that we understand the effort to do so as an integral part of the history of black modernist art.</p>
 </div>
 <hr />
@@ -490,12 +490,12 @@ elsewhere, this book is an astonishing archival achievement, mixing new findings
 <!-- FIRST NOMINEE -->
 <div>
 	<img src="https://images.routledge.com/common/jackets/crclarge/978036746/9780367466442.jpg" width="100" height="150" align="right" style="padding:10px;" />
-<h4>WINNERS: Kirby Brown, Stephen Ross, and Alana Sayers, eds. <em><a 		href="https://www.routledge.com/The-Routledge-Handbook-of-North-American-Indigenous-Modernisms/Brown-Ross-Sayers/p/book/9780367466442" 		target="_blank">The Routledge Handbook of North 		American Indigenous Modernisms</a></em> (Routledge, 2022)</h4>
+<h4>WINNERS: Kirby Brown, Stephen Ross, and Alana Sayers, eds. <em><a href="https://www.routledge.com/The-Routledge-Handbook-of-North-American-Indigenous-Modernisms/Brown-Ross-Sayers/p/book/9780367466442" target="_blank">The Routledge Handbook of North American Indigenous Modernisms</a></em> (Routledge, 2022)</h4>
 <p>The <em>Routledge Handbook of North American Indigenous Modernisms</em> explores Indigenous lives, literatures, and cultural productions in North American from the late nineteenth and early twentieth centuries. The volume crucially reshapes canonicity in this period, attending to the ways that, in contributor Philip J. Deloria’s words, “Indigenous Modernism transformed the modern itself.” Chapters are exemplary for their interdisciplinary scope and transnational juxtapositions, taking up the ties between Indigenous and Black communities in the Mississippi Delta, oral histories of the General Allotment Act, representations of indigeneity in Caribbean print cultures, and the Alaska Native solidarity networks, amongst other historical and political constellations. The volume highlights key figures of Indigenous cultural production and activism, including Zitkála-Šá, Lynn Riggs, Paul Green, Henry Starr, Mourning Dove, John Joseph Mathews, Joy Harjo, and Kent Monkman. Insisting upon the centrality of settler-colonial dispossession to any accounting of the modern, alongside longstanding histories of native survivance, this powerful account of Indigenous thought and action will be an essential resource for scholars and teachers.</p>
 </div>
 <div>
 	<img src="https://pennsylvania-press-us.imgix.net/covers/9780812225044.jpg" width="100" height="150" align="right" style="padding:10px;" />
-<h4>Jacqueline Bhabha, Caroline Elkins, and Margareta Matache, eds. <em><a 		href="https://www.pennpress.org/9780812225044/time-for-reparations/" 		target="_blank">Time for Reparations: A Global 		Perspective</a></em> (University of Pennsylvania Press, 2021)</h4>
+<h4>Jacqueline Bhabha, Caroline Elkins, and Margareta Matache, eds. <em><a href="https://www.pennpress.org/9780812225044/time-for-reparations/" target="_blank">Time for Reparations: A Global Perspective</a></em> (University of Pennsylvania Press, 2021)</h4>
 <p><em>Time for Reparations</em> is an intervention that the New Modernist Studies needs. The multidisciplinary contributors in this essay collection explicate the global “traces carved by unrepaired past injustice”— the long-lasting pain that various nations, peoples, and communities endure. This collection raises questions that will help reorient the theoretical and historical horizons of the New Modernist Studies. For example: how do past injustices transmit across generations and shape present disempowerment? What are responsible and effective forms of reparation? How does activist scholarship link the histories of injustices to contemporary political changes? Through these questions, <em>Time for Reparations</em> traces how the past remains central to current injustices through four topical sections—“Addressing the Legacy of Slavery,” “Reparations: Precedents and Lessons Learned,” and “Outstanding Issues: Unrepaired State-Sponsored Collective Injustice,” and “Ways Forward for Reparations.” <em>Time for Reparations</em> catalyzes a fundamental shift of conceptual frameworks in approaching twentieth-century political and cultural histories. </p>
 </div>
 <!-- SECOND NOMINEE -->
@@ -503,14 +503,14 @@ elsewhere, this book is an astonishing archival achievement, mixing new findings
 <!-- THIRD NOMINEE -->
 <div>
 	<img src="https://assets.cambridge.org/97811087/37449/cover/9781108737449.jpg" width="100" height="150" align="left" style="padding:10px;" />
-<h4>Rachel Farebrother & Miriam Thaggert, eds., <em><a 		href="https://www.cambridge.org/core/books/history-of-the-harlem-renaissance/FA8A4106E9340E65106B1EF892EF92AF?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" 		target="_blank">A History of the Harlem 		Renaissance</a></em> (Cambridge University Press, 2021)</h4>
+<h4>Rachel Farebrother & Miriam Thaggert, eds., <em><a href="https://www.cambridge.org/core/books/history-of-the-harlem-renaissance/FA8A4106E9340E65106B1EF892EF92AF?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark" target="_blank">A History of the Harlem Renaissance</a></em> (Cambridge University Press, 2021)</h4>
 <p>Rachel Farebrother and Miriam Thaggert’s <em>A History of the Harlem Renaissance</em> is an exceptionally thoughtful volume that brings fresh perspective to a much-studied period of literary innovation. The titular qualifier that announces this as a history, rather than the history, acknowledges the contributions to the field that have preceded it, and sets off the work of this volume as additive, or, as the editors put it in their introduction, as participating in “a long tradition of revising, re-reading, and remaking the Harlem Renaissance” (11). It makes welcome additions and revisions indeed, both bringing new texts into the spotlight and refocusing scholarly attention on form and genre in particular. Bringing together literature with visual culture, popular culture, dance, and music, the book covers well-known genres and also exceeds them to attend to biography, bildungsroman, roman à clef, children’s literature, short story, film, and more. The volume is not only an introduction to the literature and history of the period, but also to the histories, theories, and methodologies of the scholarship that has been published about it. The editors’ introduction usefully outlines the ways in which African American literary criticism and black studies more broadly can be historicised by attending to the ways that the stakes of the field have been articulated through iterative reevaluations of the cultural production of the Harlem Renaissance period, and an afterword by Deborah McDowell assesses what the scholarship collected here portends for the future of the field. Across four sections of critical essays engaged with “Re-Reading,” “Experimenting,” “Re-Mapping,” and “Performing” the New Negro, the contributors offer exceptionally incisive and insightful considerations, both deep and wide-ranging, of the history and legacy of this influential movement in African American literary history.
 	</p>
 </div>
 <!-- FOURTH NOMINEE -->
 <div>
 	<img src="https://www.psupress.org/images/covers/294wide/978-0-271-09135-8md_294.jpg" width="100" height="150" align="right" style="padding:10px;" />
-<h4>Eliot H. King and Abigail Susik, eds., <em><a 		href="https://www.psupress.org/books/titles/978-0-271-09135-8.html" 		target="_blank">Radical Dreams: Surrealism, 		Counterculture, Resistance</a></em> (Pennsylvania State University Press, 2022)</h4>
+<h4>Eliot H. King and Abigail Susik, eds., <em><a href="https://www.psupress.org/books/titles/978-0-271-09135-8.html" target="_blank">Radical Dreams: Surrealism, Counterculture, Resistance</a></em> (Pennsylvania State University Press, 2022)</h4>
 <p><em>Radical Dreams: Surrealism, Counterculture, Resistance</em> shifts the traditional timeline of the surrealist movement, moving beyond the interwar period to the 1960s, 1970s, and 1980s. This shift highlights the ties between a surrealist aesthetic and radical politics, turning to the affinity groups, underground subcultures, and student protest movements that pronounced a commitment to surrealism as a mode of anti-authoritarian resistance. A reconsideration of “Surrealism as Radicalism,” as the introductory essay posits, leads to a suite of essays that are particularly impressive for their interdisciplinary breadth and transnational contours. Chapters turn to the student protests of May ’68, Afrosurrealism, the Situationist International, the Wobblies, and London punk. New constellations emerge through the juxtaposition of a variety of artists and political actors, including Charles Fourier, Roberto Matta, Robert Rauschenberg, and Ted Joans. Drawing out the interactions between late surrealist currents and a variety of New Left political formations, spanning the sexual revolution to <em>Earth First!</em>, this volume importantly reshapes the historical contours of surrealism’s legacy.</p>
 </div>
 <hr />
@@ -526,35 +526,35 @@ elsewhere, this book is an astonishing archival achievement, mixing new findings
 <!-- WINNER -->
 	
 <img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/73/9780226736136.jpg/jcr:content/9780226736136.jpg" alt="" width="100" height="150" align="right" />
-<h4>WINNER: Rachel Sagner Buurma and Laura Heffernan, <em><a 	href="https://press.uchicago.edu/ucp/books/book/chicago/T/bo63097992.html" 	>The Teaching Archive: A New History for Literary Study </a></em>(Chicago)</h4>
+<h4>WINNER: Rachel Sagner Buurma and Laura Heffernan, <em><a href="https://press.uchicago.edu/ucp/books/book/chicago/T/bo63097992.html" >The Teaching Archive: A New History for Literary Study </a></em>(Chicago)</h4>
 <p>Rachel Sagner Buurma and Laura Heffernan’s <i>The Teaching Archive</i> radically reconfigures our understanding of the discipline and study of English by tracing its historical trajectory through the collaborative work of the literature classroom. Grounded in extensive archival research, the authors vividly reconstruct the teaching practices of instructors both well-known (T.S. Eliot, Edmund Wilson) and obscure (J. Saunders Redding, Josephine Miles) in order to demonstrate the ways that students and professors far outside the confines of elite academia helped to elaborate key disciplinary frameworks and methods. Collectively, their empirical accounts of classroom praxis and close analyses of course materials challenge longstanding oppositions—between formalism and historicism, or teaching and research—too often perceived as entrenched. In the process, the authors also uncover pedagogical “innovations” like student-centered learning, culturally responsive pedagogy, and distant reading within these early and mid-20th-century classrooms, revealing that radical experimentation has both been a persistent feature of literature education and one that has flourished within the broadest possible range of institutions. A beautifully written and forcefully argued book, <i>The Teaching Archive</i> will be essential reading for literature scholars and teachers. By recovering this lost disciplinary past, Buurma and Heffernan equip readers with a necessary tool to rebuke prevailing accounts of literary studies that, the authors show, are as inaccurate as they are expedient.</p>
 <!-- SECOND NOMINEE -->
 <img src="https://minnesota-us.imgix.net/covers/9781517911577.jpg?auto=format&w=298&dpr=2&q=100" alt="" style="margin:1em" width="100" height="150" align="right" />
-<h4>Brooks Hefner, <em> <a 	href="https://www.upress.umn.edu/book-division/books/black-pulp#:~:text=Genre%20Fiction%20in%20the%20Shadow%20of%20Jim%20Crow&amp;text=From%20the%20pages%20of%20the,to%20westerns%20and%20science%20fiction." 	>Black Pulp: Genre Fiction in the Shadow of Jim Crow </a></em>(University of Minnesota Press)</h4>
+<h4>Brooks Hefner, <em> <a href="https://www.upress.umn.edu/book-division/books/black-pulp#:~:text=Genre%20Fiction%20in%20the%20Shadow%20of%20Jim%20Crow&amp;text=From%20the%20pages%20of%20the,to%20westerns%20and%20science%20fiction." >Black Pulp: Genre Fiction in the Shadow of Jim Crow </a></em>(University of Minnesota Press)</h4>
 <p>Brooks Hefner’s <i>Black Pulp</i> is both a remarkable work of recovery and an important argument about African American literature in the modernist period. By locating Black pulp fiction in race newspapers such as the <i>Pittsburgh Courier</i> and the <i>Baltimore Afro-American</i>, Hefner offers an account of Black genre fiction that differs significantly from the highbrow African American magazines and the uplift and protest fiction with which scholars are most familiar. Across a myriad of genres—romance, speculative fiction, adventure stories—Hefner identifies the dual pleasures Black pulp stories offered their audiences: both the pleasures of genre fiction (including happy endings) and the pleasures of imagining racial justice and retribution during Jim Crow. In addition to opening an archive of understudied and unknown authors and texts (one notable exception being George Schuyler), <i>Black Pulp</i> also offers the important contribution of identifying Black fiction that was solely marketed and consumed by Black audiences. This is a generous and important work that will prove vital to those working in African American literature or those seeking a prehistory to the contemporary renaissance of Black genre texts such as <i>Black Panther</i> and <i>Get Out</i>.</p>
 <!-- THIRD NOMINEE -->
 	
 <img src="https://texas-press-us.imgix.net/covers/9781477321805.jpg?auto=format&w=298&dpr=2&q=100" alt="" width="100" height="150" align="right" />
 
-<h4>Ana María León, <em> <a href="https://utpress.utexas.edu/9781477321805/" 	>Modernity for the Masses: Antonio Bonet’s Dreams for 	Buenos Aires </a></em>(University of Texas Press)</h4>
+<h4>Ana María León, <em> <a href="https://utpress.utexas.edu/9781477321805/" >Modernity for the Masses: Antonio Bonet’s Dreams for Buenos Aires </a></em>(University of Texas Press)</h4>
 <p>If weak theory in recent years has shown itself to de-center familiar geographies and figures and unsettle dominant narratives, <i>Modernity for the Masses</i> is weak modernism at its absolute best. Taking the avowedly minor architect Antonio Bonet as an aperture on Argentinian modernism, Ana María León brilliantly illuminates the connections among the Buenos Aires avant-garde, the city’s exploding population, European modernism, and state power. León’s fine-grained attention to Bonet’s evolving plans for housing the population of Buenos Aires amidst dramatic political upheavals gives us an entirely new history of “the masses,” one that narrates the complex negotiations between architects and politicians to control, manage, and harness the power of this emergent group in rapidly shifting political times. In so doing, this book reads across architectural, photographic, and literary archives to furnish readers with a vital blueprint for constructing the history of transnational modernism.</p>
 <!-- FOURTH NOMINEE -->
 	
 <img src="https://cup-us.imgix.net/covers/9780231201056.jpg?auto=format&w=350" alt="" width="100" style="margin:1em"  height="150" align="right" />
 
-<h4>Rochona Majumdar, <em> <a 	href="http://cup.columbia.edu/book/art-cinema-and-indias-forgotten-futures/9780231201056" 	>Art Cinema and India’s Forgotten Futures: Film and 	History in the Post-Colony </a></em>(Columbia University Press)</h4>
+<h4>Rochona Majumdar, <em> <a href="http://cup.columbia.edu/book/art-cinema-and-indias-forgotten-futures/9780231201056" >Art Cinema and India’s Forgotten Futures: Film and History in the Post-Colony </a></em>(Columbia University Press)</h4>
 <p>In Rochona Majumdar’s powerful and persuasive new study, Indian art cinema emerges as nothing less than a prism refracting the nation’s conflicting apprehensions of its past and aspirations for its future. With a bivalent focus on “the history of art cinema and the art cinema as history,” <i>Art Cinema and India’s Forgotten Futures</i> focuses on the work of three major directors—Ritwik Ghatak, Mrinal Sen, and Satyajit Ray—in order to illuminate the ways in which the cinema of these diverse filmmakers was made to bear the “ideological burdens” of a tumultuous post-colonial present. Majumdar produces a richly nuanced account of the aesthetic, intellectual, and historiographic ambitions of the three directors, offering tour-de-force analyses of their films, including both the more familiar (Ghatak’s <i>Cloud-Capped Star</i>, Ray’s Apu trilogy) and the less studied (Sen’s Calcutta trilogy, Ray’s city films). In the process, she usefully complicates assumptions not only about “new” Indian cinema, but about the category of art cinema broadly. Thus, even as Majumdar provides a meticulously researched account of art cinema’s function within a specific historical moment and national context, her central, well-substantiated claim—that “art films themselves [are] a mode of historical apprehension”—is one with far-reaching implications for scholars in the fields of film studies, post-colonial studies, and modernist studies.</p>
 
 <!-- FIFTH NOMINEE -->
 <img src="https://www.ucpress.edu/_next/image?url=https%3A%2F%2Fwebfiles.ucpress.edu%2Fcoverimage%2Fisbn13%2F9780520344273.jpg&w=640&q=90" alt="" width="100" height="150" align="right" />
-<h4>Daniel Morgan, <em> <a 	href="https://www.ucpress.edu/book/9780520344273/the-lure-of-the-image" 	>The Lure of the Image: Epistemic Fantasies of the 	Moving Camera </a></em>(University of California Press) </h4>
+<h4>Daniel Morgan, <em> <a href="https://www.ucpress.edu/book/9780520344273/the-lure-of-the-image" >The Lure of the Image: Epistemic Fantasies of the Moving Camera </a></em>(University of California Press) </h4>
 <p>A significant work of film theory, Daniel Morgan’s <i>The Lure of the Image</i> will change the way readers watch and teach film, and modernists will be interested in the sustained discussions of Max Ophüls and Fritz Lang. Morgan’s book challenges (and helpfully rehearses) film theory’s long history of grounding conceptions of film meaning in montage, and trains us instead on camera motion. In doing so, he overturns a fundamental assumption about the camera as the locus of audience identification that has grounded much film theory. Instead, by first considering moments of perceptual games (such as the play with identification with the killer in horror films) and then articulating more complex challenges such as Ophüls’ circling camera or Terrence Malick’s “antiperspectival” cinematography, Morgan opens up the spectator’s <i>relationship</i> to the moving camera as a significant aspect of film style. Specifically, he argues that the relationship is one characterized by epistemic fantasy, as viewers imagine taking on but do not lose themselves to the perspectives offered by camera movement. <i>The Lure of the Image</i> is a bracing work of film theory that tethers film ethics and aesthetics beyond the limit of character and camera identification.</p>
 
 <!-- SIXTH NOMINEE -->
 
 <img src="https://assets.cambridge.org/97811089/64333/large_cover/9781108964333i.jpg" alt="" width="100" height="150" align="right" />
 
-<h4>Julia Walker, <em> <a 	href="https://www.cambridge.org/core/books/performance-and-modernity/505F7AE2CF61A60AD57601CF0303902A" 	>Performance and Modernity: Enacting Change on the 	Global Stage </a></em>(Cambridge University Press) </h4>
+<h4>Julia Walker, <em> <a href="https://www.cambridge.org/core/books/performance-and-modernity/505F7AE2CF61A60AD57601CF0303902A" >Performance and Modernity: Enacting Change on the Global Stage </a></em>(Cambridge University Press) </h4>
 <p>Julia Walker’s Performance and Modernity has all the electricity of a lightning bolt. Brilliantly reimagining performance in light of the technological, representational, and ontological crises of modernity, this book provides a breathtaking history of performance that is both truly global and shockingly new. Meticulously reconstructing accounts of changes in styles of performance as an embodiment (in every sense) of the forces of modernity itself, Walker sees different styles of performance—from the “point” technique to psychological realism—not merely encoding desires for and fears of modernity, but enacting and fomenting them. Reading across many national traditions and genres of performance, this book recasts our sense of the modern in a way few other books have.</p> 
 <hr />
 <!-- COMMITTEE -->
@@ -568,59 +568,59 @@ elsewhere, this book is an astonishing archival achievement, mixing new findings
 <!-- FIRST NOMINEE -->
 <div>
 <img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421440910.jpg" width="100" height="150" align="right" style="padding:10px;" />
-<h4>Ian Afflerbach, <em><a 	href="https://www.press.jhu.edu/books/title/12512/making-liberalism-new" 	>Making Liberalism New: American Intellectuals, 	Modern Literature, and the Rewriting of a Political 	Tradition </a></em> (Johns Hopkins)</h4>
+<h4>Ian Afflerbach, <em><a href="https://www.press.jhu.edu/books/title/12512/making-liberalism-new" >Making Liberalism New: American Intellectuals, Modern Literature, and the Rewriting of a Political Tradition </a></em> (Johns Hopkins)</h4>
 <p><i>Making Liberalism New</i> turns to a fascinating group of mid-century American writers and thinkers who gathered in the ruins of classical liberalism. Viewing twentieth-century liberalism as a discursive formation rather than a collection of institutions, Afflerbach offers a compelling account of how modernist fiction and modernist style fostered this self-reflexive and critical liberalism. Fictional irony was uniquely suited to explore classical liberalism’s failure to grapple with the lived realities of race and gender; after mid-century, modernist culture offered a stylistic repertoire for a newly aestheticized national politics. In a word, Making Liberalism New also makes modernism anew, showing how our present dualisms — radicalism versus liberalism, in particular — have blinded us to its critical commitments.</p>
 </div>
 <!-- SECOND NOMINEE -->
 <div>
 <img src="https://img.perlego.com/book-covers/3041632/9780226745183_300_450.webp" width="100" height="150" align="left" style="padding:10px;" />
-<h4>Emmelyn Butterfield-Rosen, <em><a 	href="https://www.perlego.com/book/3041632/modern-art-and-the-remaking-of-human-disposition-pdf" 	>Modern Art and the Remaking of Human Disposition </a></em>(Chicago)</h4>
-<p><i>Modern Art and the Remaking of Human Disposition</i> is a formalist tour de force that returns – as if for the first time – to the late nineteenth century decades in which modern artists abandoned classical conventions for posing human figures in Western art. Eschewing expressive gesture and the autonomous consciousness it served to indicate, modern painters and choreographers portrayed the human form as stiff, its gestures uniform, its fingers and toes disarticulated. Butterfield-Rosen illuminates the implications of this new postural simplicity, which heralded multiple twentieth century varieties of visual abstraction. In three learned and detailed case studies&#8211;of Georges Seurat’s <i>Poseuses</i> canvas, Gustav Klimt’s <i>Beethovenfries</i> mural, and Vaslav Nijinksy’s <i>L’Après-midi d’un faune</i> ballet&#8211;<i>Modern Art 	and the Remaking of Human Disposition</i> revives the epistemological ruptures that came with Darwinian ideas of animal descent, psychological explorations of unconscious thought, and Freudian accounts of non-procreative sexuality.</p>
+<h4>Emmelyn Butterfield-Rosen, <em><a href="https://www.perlego.com/book/3041632/modern-art-and-the-remaking-of-human-disposition-pdf" >Modern Art and the Remaking of Human Disposition </a></em>(Chicago)</h4>
+<p><i>Modern Art and the Remaking of Human Disposition</i> is a formalist tour de force that returns – as if for the first time – to the late nineteenth century decades in which modern artists abandoned classical conventions for posing human figures in Western art. Eschewing expressive gesture and the autonomous consciousness it served to indicate, modern painters and choreographers portrayed the human form as stiff, its gestures uniform, its fingers and toes disarticulated. Butterfield-Rosen illuminates the implications of this new postural simplicity, which heralded multiple twentieth century varieties of visual abstraction. In three learned and detailed case studies&#8211;of Georges Seurat’s <i>Poseuses</i> canvas, Gustav Klimt’s <i>Beethovenfries</i> mural, and Vaslav Nijinksy’s <i>L’Après-midi d’un faune</i> ballet&#8211;<i>Modern Art and the Remaking of Human Disposition</i> revives the epistemological ruptures that came with Darwinian ideas of animal descent, psychological explorations of unconscious thought, and Freudian accounts of non-procreative sexuality.</p>
 </div>
 <!-- THIRD NOMINEE -->
 <div>
 <img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421441535.jpg" width="100" height="150" align="right" style="padding:10px;" />
-<h4>Joseph Cermatori, <em><a 	href="https://www.press.jhu.edu/books/title/12551/baroque-modernity" 	>Baroque Modernity: An Aesthetics of 	Theater</a></em> (Johns Hopkins)</h4>
-<p>If we believed that baroque aesthetics were obsolescent or incompatible with the ethos of modernity, <i>Baroque Modernity: 	An Aesthetics of Theater</i> convincingly disabuses us of this notion. In this brilliant study, Cermatori unfurls how modernist writers from Friedrich Nietzsche to Stéphane Mallarmé to Gertrude Stein called back to baroque theater as a way to fashion innovative aesthetic forms and complex modes of philosophical thought that could capture and hold the tensions of a rapidly changing modern world. With close readings that are just as dazzling and pleasurable as baroque theater, this book is nothing less than a bold rethinking of modernism and a fresh reminder of theater’s importance to the making of modernity. </p>
+<h4>Joseph Cermatori, <em><a href="https://www.press.jhu.edu/books/title/12551/baroque-modernity" >Baroque Modernity: An Aesthetics of Theater</a></em> (Johns Hopkins)</h4>
+<p>If we believed that baroque aesthetics were obsolescent or incompatible with the ethos of modernity, <i>Baroque Modernity: An Aesthetics of Theater</i> convincingly disabuses us of this notion. In this brilliant study, Cermatori unfurls how modernist writers from Friedrich Nietzsche to Stéphane Mallarmé to Gertrude Stein called back to baroque theater as a way to fashion innovative aesthetic forms and complex modes of philosophical thought that could capture and hold the tensions of a rapidly changing modern world. With close readings that are just as dazzling and pleasurable as baroque theater, this book is nothing less than a bold rethinking of modernism and a fresh reminder of theater’s importance to the making of modernity. </p>
 </div>
 <!-- FOURTH NOMINEE -->
 <div>
 <img src="https://edinburghuniversitypress.com/media/catalog/product/cache/c57119711f6f6be310d32fe7539c40f3/9/7/9781474481632_1.jpg" width="100" height="150" align="left" style="padding:10px;" />
-<h4>Megan Girdwood, <em><a 	href="https://edinburghuniversitypress.com/book-modernism-and-the-choreographic-imagination.html" 	>Modernism and the Choreographic Imagination: 	Salome’s Dance after 1890</a></em> 	(Edinburgh)</h4>
+<h4>Megan Girdwood, <em><a href="https://edinburghuniversitypress.com/book-modernism-and-the-choreographic-imagination.html" >Modernism and the Choreographic Imagination: Salome’s Dance after 1890</a></em> (Edinburgh)</h4>
 <p><i>Modernism and the Choreographic Imagination</i> summons back to life the dozens of Salomés who arched and swirled across music halls, theaters, and film screens in the early twentieth century to show how these performers invented new aesthetic categories and modes of perception that literary modernists quickly borrowed and translated into text. Blending a dance historian’s focus on particular performances and productions with a critic’s intuitive apprehension of speculative influences, Girdwood traces how collaborations among dancers and writers formed the basis of key works of literary modernism, from Symbolist poetry to Aubrey Beardsley’s illustrations, Djuna Barnes’s short stories, Yeats’s dance dramas, and Beckett’s late plays. Flipping the aesthetic hierarchies that persistently see dance as reflecting rather than inventing symbolic forms, Girdwood finds Salome’s serpentine line at the root of modernism’s creative individualism.</p>
 </div>
 <!-- FIFTH NOMINEE -->
 <div>
 <img src="https://www.ucpress.edu/_next/image?url=https%3A%2F%2Fwebfiles.ucpress.edu%2Fcoverimage%2Fisbn13%2F9780520309043.jpg&w=640&q=90" width="100" height="150" align="right" style="padding:10px;" />
-<h4>CO-WINNER: Joanna Pawlik, <em><a 	href="https://www.ucpress.edu/book/9780520309043/remade-in-america" 	>Remade in America: Surrealist Art, Activism, and 	Politics, 1940–1978 </a></em>(University of 	California)</h4>
+<h4>CO-WINNER: Joanna Pawlik, <em><a href="https://www.ucpress.edu/book/9780520309043/remade-in-america" >Remade in America: Surrealist Art, Activism, and Politics, 1940–1978 </a></em>(University of California)</h4>
 <p>Joanna Pawlik’s <i>Remade in America: Surrealist Art, Activism,
 and Politics, 1940–1978</i> opens with a striking account of ten-year old future poet, musician, painter, and activist Ted Joans who, despite the limits of a segregated education, became an avid student of Surrealism. Where Joans breathed new life into the surrealist publications that his aunt retrieved from an employer’s trash bin, Pawlik’s stunning book likewise breathes new life into the study of surrealism. This smart and engaging account of Surrealism from below unsettles orthodox narratives about this literary movement: its periodization, its geography, its primary actors, its political preoccupations, its essence. From the Black Arts Movement to the gay liberation movement, Pawlik details how Surrealism in postwar America became an art of the oppressed, offering an aesthetic intervention into the overlapping crises of American inequality. In each chapter, the writing and images are stunningly beautiful, the analysis sharp, the revelations deep.</p>
 </div>
 <!-- SIXTH NOMINEE -->
 <div>
 <img src="https://assets.cambridge.org/97811088/40132/large_cover/9781108840132i.jpg" width="100" height="150" align="left" style="padding:10px;" />
-<h4>Jessica E. Teague, <em><a 	href="https://www.cambridge.org/core/books/sound-recording-technology-and-american-literature/E3D8830E81FFAD1381BDDEECD1FC5650" 	>Sound Recording Technology and American Literature: 	From the Phonograph to the Remix </a></em>(Cambridge)</h4>
+<h4>Jessica E. Teague, <em><a href="https://www.cambridge.org/core/books/sound-recording-technology-and-american-literature/E3D8830E81FFAD1381BDDEECD1FC5650" >Sound Recording Technology and American Literature: From the Phonograph to the Remix </a></em>(Cambridge)</h4>
 <p>In <i>Sound Recording Technology and American Literature: From the Phonograph to the Remix</i>, American literature gets a hearing. In this deeply researched, archivally rich study, Jessica E. Teague attunes readers to the sonic foundations of American literature. Teague demonstrates how sound technology was not only a thematic preoccupation, but was also crucial to the material production of literary texts. For writers like John Dos Passos, Amiri Baraka, and Kevin Young, sound technologies such as the stereo LP, the phonograph, and the tape recorder inflected the form and content of their writing. But if the ear was essential to the making of American literature, Teague brilliantly elaborates a method for listening critically to this work, offering a theory of “resonant reading” that scholars in various fields are sure to find a valuable interpretive framework. Persuasively written and a pleasure to read, this study equips us to grapple with the soundscapes and vibrations of American literature.</p>
 </div>
 <!-- SEVENTH NOMINEE -->
 <div>
 <img src="https://images.routledge.com/common/jackets/crclarge/978036755/9780367550905.jpg" width="100" height="150" align="right" style="padding:10px;" />
-<h4>Thalia Trigoni, <em><a href="https://www.routledge.com/The-Intelligent-Unconscious-in-Modernist-Literature-and-Science/Trigoni/p/book/9780367550905">The Intelligent Unconscious in Modernist Literature 	and Science </a></em>(Routledge)</h4>
-<p><i>The Intelligent Unconscious in Modernist Literature and Science</i> uncovers a fascinating discursive history of the idea of the unconscious apart from the canonical Freudian paradigm. Trigoni defamiliarizes scientific figures like William James, demonstrating their centrality to developing a theory of the “intelligent unconscious” before Freud. Despite the influential formulations of the Freudian model of nonconscious intellection, Trigoni shows how central were ideas of noncognitive intelligence, intuition, and other faculties to the development of non-Freudian psychology. The <i>Intelligent 	Unconscious</i> also demonstrates how major modernist thinkers and writers like T. S. Eliot, Virginia Woolf, and D. H. Lawrence drew on this alternative psychological discourse in their literary formulations of the mind. Trigoni uncovers a horizon of modernist understandings of subconscious awareness and creativity beyond the gravitational warp field of Freud. <i>The Intelligent Unconscious</i> thereby demotes Freud’s significance to modernist genealogies of the mind, transforming our understanding of depth psychology and the stream of consciousness—and the idea of the Unconscious itself.</p>
+<h4>Thalia Trigoni, <em><a href="https://www.routledge.com/The-Intelligent-Unconscious-in-Modernist-Literature-and-Science/Trigoni/p/book/9780367550905">The Intelligent Unconscious in Modernist Literature and Science </a></em>(Routledge)</h4>
+<p><i>The Intelligent Unconscious in Modernist Literature and Science</i> uncovers a fascinating discursive history of the idea of the unconscious apart from the canonical Freudian paradigm. Trigoni defamiliarizes scientific figures like William James, demonstrating their centrality to developing a theory of the “intelligent unconscious” before Freud. Despite the influential formulations of the Freudian model of nonconscious intellection, Trigoni shows how central were ideas of noncognitive intelligence, intuition, and other faculties to the development of non-Freudian psychology. The <i>Intelligent Unconscious</i> also demonstrates how major modernist thinkers and writers like T. S. Eliot, Virginia Woolf, and D. H. Lawrence drew on this alternative psychological discourse in their literary formulations of the mind. Trigoni uncovers a horizon of modernist understandings of subconscious awareness and creativity beyond the gravitational warp field of Freud. <i>The Intelligent Unconscious</i> thereby demotes Freud’s significance to modernist genealogies of the mind, transforming our understanding of depth psychology and the stream of consciousness—and the idea of the Unconscious itself.</p>
 </div>
 <!-- EIGHTH NOMINEE -->
 <div>
 <img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421441368.jpg" width="100" height="150" align="left" style="padding:10px;" />
-<h4>Philip Tsang, <em><a 	href="https://www.press.jhu.edu/books/title/12511/obsolete-empire" 	>The Obsolete Empire: Untimely Belonging in 	Twentieth-Century British Literature </a></em>(Johns Hopkins)</h4>
+<h4>Philip Tsang, <em><a href="https://www.press.jhu.edu/books/title/12511/obsolete-empire" >The Obsolete Empire: Untimely Belonging in Twentieth-Century British Literature </a></em>(Johns Hopkins)</h4>
 <p><i>The Obsolete Empire</i> explores the history of modern Britishness from the margins. An idealized England persists in the mind’s eye of colonial and postcolonial writers, all of whom cherished a taboo relation to empire: Joyce, Naipaul, Lessing, and Henry James, are among the cast of characters whose persistent attachment to an obsolete British empire defines a paradoxical structure of feeling. Going against the grain of revolutionary or oppositional formations, these writers betray dual allegiances, complicating the idea of postcoloniality itself in the world of literature. Engaging notions of fractured temporality and stubborn attachments to obsolete formations of colonized identity, Tsang’s <i>Obsolete Empire</i> demonstrates the internal persistence of oppression from imperial rule once the empire is over. But such attachments also demonstrate the creative wellsprings of resistance in the mode of allegiance, belonging and unbelonging both redefined from the margins in view of a collapsed center. </p>
 </div>
 <!-- NINTH NOMINEE -->
 <div>
 <img src="https://global.oup.com/academic/covers/pop-up/9780192893383" width="100" height="150" align="right" style="padding:10px;" />
-<h4>CO-WINNER: Robert Volpicelli, <em><a 	href="https://global.oup.com/academic/product/transatlantic-modernism-and-the-us-lecture-tour-9780192893383?cc=us&lang=en&" 	>Transatlantic Modernism and the U.S. Lecture Tour </a></em>(Oxford)</h4>
-<p>Volpicelli’s book opens up a new world of modernist literature: the celebrity circuit of early-twentieth-century lecture-tours. The “Great Divide” is but one of the persistent notions about the modernist literary field that Volpicelli debunks: T. S. Eliot, for one, filled the football stadium at the University of Minnesota in 1956, giving a lecture to 14,000 on “The Frontiers of Criticism.” With a deft handling of materials and a strong voice, Volpicelli maneuvers the reader through this little-examined archive of modernism at its height, and its compromises with mass culture and celebrity that to us seem unimaginable. By so doing, <i>Transatlantic Modernism and the 	U.S. Lecture Tour</i> uncovers a distant world where poets, novelists, and literary critics enjoyed a mainstream national following—and the lecture format served as mass entertainment and ersatz adult education.</p>
+<h4>CO-WINNER: Robert Volpicelli, <em><a href="https://global.oup.com/academic/product/transatlantic-modernism-and-the-us-lecture-tour-9780192893383?cc=us&lang=en&" >Transatlantic Modernism and the U.S. Lecture Tour </a></em>(Oxford)</h4>
+<p>Volpicelli’s book opens up a new world of modernist literature: the celebrity circuit of early-twentieth-century lecture-tours. The “Great Divide” is but one of the persistent notions about the modernist literary field that Volpicelli debunks: T. S. Eliot, for one, filled the football stadium at the University of Minnesota in 1956, giving a lecture to 14,000 on “The Frontiers of Criticism.” With a deft handling of materials and a strong voice, Volpicelli maneuvers the reader through this little-examined archive of modernism at its height, and its compromises with mass culture and celebrity that to us seem unimaginable. By so doing, <i>Transatlantic Modernism and the U.S. Lecture Tour</i> uncovers a distant world where poets, novelists, and literary critics enjoyed a mainstream national following—and the lecture format served as mass entertainment and ersatz adult education.</p>
 </div>
-	<hr />
+<hr />
 <!-- COMMITTEE -->
 <p><strong>MSA 2021 First Book Prize Committee</strong><br /> Octavio R. González (Wellesley College), Chair<br /> Julius B. Fleming (University of Maryland)<br /> Laura Heffernan (University of North Florida)</p>
 
@@ -632,71 +632,70 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <!-- WINNER -->
 <div>
 <img src="https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale/jackets/9781474242325.jpg" width="100" height="150" align="right" style="padding:10px;" />
-<h4>WINNER: Alys Moody &amp; Stephen Ross, eds., <em><a 	href="https://www.bloomsbury.com/us/global-modernists-on-modernism-9781474242325/" 	>Global Modernists on Modernism: An 	Anthology</a></em> (Bloomsbury)</h4>
-<p>Alys Moody and Stephen J. Ross’s <i>Global Modernists on Modernism</i> is a groundbreaking anthology that will have an immeasurable impact. It introduces carefully selected, edited, and annotated texts from a breathtakingly broad range of primary sources that will be integral to future scholarship and teaching. This is an anthology that is aware of how important the anthology has been to modernism, or as they put it, how “this process of assemblage and collection, of triage and sorting, has been central to the history of modernism’s reception.” In this way the volume, both in its editorial choices and its expert critical essays, offers a radical shift away from the discipline’s preoccupation with defining modernism, and instead aims to present an archive from which we might begin to understand the ways in which modernism has been differently understood around the world. As such it also seeks to “go beyond merely gesturing to the existence of modernists around the world, to defend the value of ‘global modernism’ as a critical hermeneutic.” The anthology begins with the brilliant and provocative “Ten Theses on Global Modernism”, providing a thematic “Alternate Table of Contents” with categories ranging from “Political and Social Formations” to “Artistic Movements and Styles” and “Institutions and Social Conditions of the Field.” In addition to drawing on Moody and Ross’s expertise, the volume also features vital and enlightening contributions of invited scholars as section editors and translators. <i>Global 	Modernists on Modernism</i> is the result of immense scholarship and will prove a model for future editions; for modernist literary studies it will be no less than indispensable, deftly transforming considerations of the literary, historical, and geographical scope of modernism. </p>
+<h4>WINNER: Alys Moody &amp; Stephen Ross, eds., <em><a href="https://www.bloomsbury.com/us/global-modernists-on-modernism-9781474242325/" >Global Modernists on Modernism: An Anthology</a></em> (Bloomsbury)</h4>
+<p>Alys Moody and Stephen J. Ross’s <i>Global Modernists on Modernism</i> is a groundbreaking anthology that will have an immeasurable impact. It introduces carefully selected, edited, and annotated texts from a breathtakingly broad range of primary sources that will be integral to future scholarship and teaching. This is an anthology that is aware of how important the anthology has been to modernism, or as they put it, how “this process of assemblage and collection, of triage and sorting, has been central to the history of modernism’s reception.” In this way the volume, both in its editorial choices and its expert critical essays, offers a radical shift away from the discipline’s preoccupation with defining modernism, and instead aims to present an archive from which we might begin to understand the ways in which modernism has been differently understood around the world. As such it also seeks to “go beyond merely gesturing to the existence of modernists around the world, to defend the value of ‘global modernism’ as a critical hermeneutic.” The anthology begins with the brilliant and provocative “Ten Theses on Global Modernism”, providing a thematic “Alternate Table of Contents” with categories ranging from “Political and Social Formations” to “Artistic Movements and Styles” and “Institutions and Social Conditions of the Field.” In addition to drawing on Moody and Ross’s expertise, the volume also features vital and enlightening contributions of invited scholars as section editors and translators. <i>Global Modernists on Modernism</i> is the result of immense scholarship and will prove a model for future editions; for modernist literary studies it will be no less than indispensable, deftly transforming considerations of the literary, historical, and geographical scope of modernism. </p>
 </div>
 <!-- HONORABLE MENTION -->
 <div>
 <img src="https://global.oup.com/academic/covers/pop-up/9780198749967" width="100" height="150" align="right" style="padding:10px;" />
-<h4>HONORABLE MENTION: David James, ed., <em><a href="https://global.oup.com/academic/product/modernism-and-close-reading-9780198749967?cc=us&lang=en&">Modernism and Close Reading</a></em> (Oxford 	University Press)</h4>
+<h4>HONORABLE MENTION: David James, ed., <em><a href="https://global.oup.com/academic/product/modernism-and-close-reading-9780198749967?cc=us&lang=en&">Modernism and Close Reading</a></em> (Oxford University Press)</h4>
 <p>This landmark collection of essays takes the seemingly established combination of modernism and close-reading and probes it until new conceptual and theoretical genealogies emerge. Putting pressure on disciplinary assumptions, it examines and interrogates close reading’s privileged relation to modernism, suggesting that this affiliation no longer seems as inarguable as it once did. Putting these in conjunction – with full acknowledgement of both contemporary methodologies and the shifting commitments of both ‘modernism’, and ‘close-reading’ – proves enormously fruitful, and James’s introduction enriches and stimulates our understanding of these overlapping terms. Marshalling a joyfully diverse range of approaches and examples, the essays in this book, each sensational on its own terms, take the question in unexpected and imaginative directions. The book is divided into two sections. First is a history of modernist close-reading, which offers a magisterial but never linear narrative account of critical practice, always showing an alertness to the contingencies and contradictions therein. The second section, ‘Futures for Close Reading Modernism’, expands its purview to include ways closeness of reading, and the closeness – or distance – of modernism, are vital for critics today. This is a book with real things to say about the history of criticism, the quality of attentiveness, and their relationship to the practice and study of modernism right now. It is going to be an inescapable book for some time to come.</p>
 </div>
 <!-- THIRD NOMINEE -->
 <div>
 <img src="https://www.psupress.org/images/covers/294wide/978-0-271-08220-2md_294.jpg" width="100" height="150" align="left" style="padding:10px;" />
-<h4>Elizabeth Pender &amp; Cathryn Setz, eds., <em><a 	href="https://www.psupress.org/books/titles/978-0-271-08220-2.html" 	>Shattered Objects: Djuna Barnes's 	Modernism</a></em> (Pennsylvania State University 	Press)</h4>
+<h4>Elizabeth Pender &amp; Cathryn Setz, eds., <em><a href="https://www.psupress.org/books/titles/978-0-271-08220-2.html" >Shattered Objects: Djuna Barnes's Modernism</a></em> (Pennsylvania State University Press)</h4>
 <p>This exceptionally elegant volume gathers together new essays on Djuna Barnes, and shows anew her centrality to modernist studies. Edited with precision and care, it begins with a brilliant and authoritative introductory essay that rather effortlessly grasps hold of Barnes studies, and argues for a renewed and expanded engagement with her whole oeuvre. This is the collection, one feels, that will show the way, casting new light by way of essays that are influenced by a notable variety of approaches, including affect studies, animal/human relations, new thinking about print and media cultures, and the expansion of modernist studies more generally. The editors take their title from Barnes’s line that ‘there is always more surface to a shattered object than a whole object’ – an aesthetic manifesto that applies as much to the sparkling intellectual and critical diversity they have gathered together here as it does to these stimulating new ways to read Barnes’s work. As the editors say, those shattered surfaces tantalize further theoretical engagement; this collection will further vitalise those engagements, doing justice to Barnes with its daring multiplicity, sheer beauty, and intellectual verve. </p>
 </div>
 <!-- FOURTH NOMINEE -->
 <div>
 <img src="https://fordhampress-us.imgix.net/covers/9780823281060.jpg" width="100" height="150" align="right" style="padding:10px;" />
-<h4>Timothy Billings, ed., <em><a 	href="https://www.fordhampress.com/9780823281060/cathay/" 	>Cathay: A Critical Edition by Ezra Pound</a></em> 	(Fordham University Press)</h4>
+<h4>Timothy Billings, ed., <em><a href="https://www.fordhampress.com/9780823281060/cathay/" >Cathay: A Critical Edition by Ezra Pound</a></em> (Fordham University Press)</h4>
 <p><i>Cathay</i>, the slim volume of poems that Ezra Pound “translated” from classical Chinese in 1915, has long been considered one of Pound’s crowning achievements and a cornerstone of modernism itself. Because Pound himself did not know Chinese and relied upon notes left behind by the American scholar Ernest Fenollosa to compose his own idiosyncratic versions, the collection has also been controversial from the start, spawning a century of fierce debate over the merits and flaws of Pound’s translations, modernism’s problematic engagement in cultural appropriation and Orientalism, and the practice and goals of translation itself. Enter this groundbreaking new critical edition, which, for the first time, presents Pound’s lapidary, moving poems alongside the original source material he drew upon to create <i>Cathay</i>. Thanks to Timothy Billings’ exhaustive editorial and archival efforts (including his heroic decoding of Fenollosa’s notoriously inscrutable handwriting), the famous “cribs” found in Fenollosa’s notebooks have been made available at last, transcribed and presented in a well-conceived, easy-to-use format. Instantly indispensable, this book will prove to be a pivotal moment in the history of <i>Cathay</i>’s reception. With three substantial scholarly introductions and meticulous, enlightening line-by-line glosses and detailed annotations, this beautifully-designed book wades sensitively into decades of contentious disagreement, error, and misunderstanding. As this edition brilliantly demonstrates, the poems of <i>Cathay</i> are less the work of one gifted, controversial American poet but rather the product of a fascinating chain of transmission – an elaborate game of telephone -- that crosses centuries, multiple languages, cultures, and far-flung continents. Immensely entertaining, insightful, and deeply learned, Billings is a consummate guide to the complexities and nuances of “the <i>Cathay</i> problem.” This dazzling, revelatory book is not only a goldmine for scholars of Pound and modernist poetry, but for anyone interested in either the theory and practice of translation or the story of how modernism emerges from densely interwoven, global networks of encounter and exchange. </p>
 </div>
 <!-- FIFTH NOMINEE -->
 <div>
 <img src="https://d2j6dbq0eux0bg.cloudfront.net/images/13245006/1825941479.jpg" width="100" height="150" align="left" style="padding:10px;" />
-<h4>Sara Crangle, ed., <em><a 	href="https://www.shearsman.com/store/Anna-Mendelssohn-Im-Working-Here-Collected-Poems-p199149650" 	>I’m Working Here: The Collected Poems of Anna 	Mendelssohn</a></em> (Shearsman Books)</h4>
+<h4>Sara Crangle, ed., <em><a href="https://www.shearsman.com/store/Anna-Mendelssohn-Im-Working-Here-Collected-Poems-p199149650" >I’m Working Here: The Collected Poems of Anna Mendelssohn</a></em> (Shearsman Books)</h4>
 <p><i>I’m Working Here</i> introduces readers to the vast oeuvre of the experimental British poet Anna Mendelssohn. In form and content, Sara Crangle’s edition responds to Mendelssohn’s aesthetic, and the volume draws extensively on materials in Mendelssohn’s archive at the University of Sussex. Crangle provides thorough introductory materials engaging Mendelssohn’s poetic strategies and political views, as well as the modernist contexts to which she responded. Crangle’s introduction and detailed notes will be invaluable for future scholarship. The exceptional quality of this edition presents a strong indication that Mendelssohn will come to have a more vital presence in discussions of modernism, poetry, and literary experimentation.</p>
 </div>
-	<hr />
+<hr />
 <!-- COMMITTEE -->
 <p><strong>MSA 2020 First Book Prize Committee</strong><br /> Julia Jordan (University College London), Chair<br /> Andrew Epstein (Florida State University)<br /> Amanda Golden (New York Tech)</p>
-	<hr />
-
+<hr />
 
 <!-- 2021 Book Prize -->
 <h1>MSA Book Prize (for a book published in 2020)</h1>
 <!-- WINNER -->
 <div>
 	<img alt="OUP Book Cover" src="https://global.oup.com/academic/covers/pdp/9780198868873" width="100" height="150" align="right" style="padding:10px;" />
-	<h4>WINNER: Lisa Siraganian, <em><a 		href="https://global.oup.com/academic/product/modernism-and-the-meaning-of-corporate-persons-9780198868873?cc=us&lang;=en&amp;" 		>Modernism and the Meaning of Corporate 	Persons</a></em> (Oxford University Press)</h4>
+	<h4>WINNER: Lisa Siraganian, <em><a href="https://global.oup.com/academic/product/modernism-and-the-meaning-of-corporate-persons-9780198868873?cc=us&lang;=en&amp;" >Modernism and the Meaning of Corporate Persons</a></em> (Oxford University Press)</h4>
 <p>“They do everything people do—except breathe, die and go to jail for dumping 1.3 million pounds of PCBs in the Hudson River.” You may recognize this characterization of corporations from the satire of Stephen Colbert, but it is Lisa Siraganian who unearths the legal and literary foundations of corporate personality in her extraordinary <i>Modernism and the Meaning of Corporate Persons</i>. Siraganian’s study opens with the 1886 United States Supreme Court ruling that businesses could function as legal actors in a system historically reserved for property-holding human beings. This decision to attribute “personality” to corporations inaugurates a series of eye-opening questions about the possibility and potential meanings of collective intention. Siraganian assembles a fascinating and highly original archive that includes the legal theory of Oliver Wendell Holmes, Harold Laski, and Frederic Maitland alongside the literary works of Frank Norris, F. Scott Fitzgerald, Gertrude Stein, Muriel Rukeyser, and Ralph Ellison. The first half of the book stages ontological questions about corporations as collective social agents beginning with the puzzle of discerning intention, the nature of corporate speech, and the operations of the corporate mind (if indeed such a thing exists). The second half looks to lawyers and artists who track the often appalling real world effects of corporate personhood through such protections as limited liability and the distortion of Fourteenth Amendment rights. Modernist literature emerges in Siraganian’s study as an essential resource for addressing philosophical questions of collective intention that the courts had to resolve in pragmatic terms. The brilliance of Modernism and the Meaning of Corporate Persons lies in its dedicated multidisciplinarity. Siraganian honors the means and ends of the law, literature, and philosophy and uses their disparate ways of thinking, feeling, and reasoning to illuminate the soulless corporation in all its unnatural personhood.</p>
 </div>
 <!-- FIRST NOMINEE -->
 <div>
 	<img alt="book cover" src="https://cup-us.imgix.net/covers/9780231193122.jpg?auto=format&amp;w=350" width="100" height="150" align="left" style="padding:10px;" />
-	<h4> Sarah Cole, <em><a 		href="http://cup.columbia.edu/book/inventing-tomorrow/9780231193122" 		>Inventing Tomorrow: H. G. Wells and the Twentieth 		Century</a></em> (Columbia University Press)</h4>
+	<h4> Sarah Cole, <em><a href="http://cup.columbia.edu/book/inventing-tomorrow/9780231193122" >Inventing Tomorrow: H. G. Wells and the Twentieth Century</a></em> (Columbia University Press)</h4>
 <p>Sarah Cole’s <i>Inventing Tomorrow</i> is no conventional single-author book. But then Wells was no conventional single author. That Cole expertly synthesizes the vast range of Wells’s massive output is not the least of this volume’s virtues; that she makes us understand what we have missed out on by neglecting Wells, or acceding to his disparagement, is perhaps its greatest. “Wells’s peers recognized that he had the boldest of agendas for his writing, scaled to the world,” notes Cole—an agenda that, obscured by the “astonishing success” and longevity of modernist values, represents both the road not taken in twentieth-century literature and a vital missing piece in our understanding of it. With passion and wit, Cole restores this polymathic, prophetic figure to his rightful position astride the twentieth century; through Wells, she re-envisions modernism as a usable past that might allow us to imagine a workable future.</p>
 </div>
 <!-- SECOND NOMINEE -->
 <div>
 	<img alt="book cover" src="https://images.ucpress.edu/covers/300/9780520343245.jpg" width="100" height="150" align="right" style="padding:10px;" />
-	<h4>Anneka Lenssen, <em><a 		href="https://www.ucpress.edu/book/9780520343245/beautiful-agitation" 		>Beautiful Agitation: Modern Painting and Politics 		in Syria</a></em> (University of California Press)</h4>
+	<h4>Anneka Lenssen, <em><a href="https://www.ucpress.edu/book/9780520343245/beautiful-agitation" >Beautiful Agitation: Modern Painting and Politics in Syria</a></em> (University of California Press)</h4>
 <p>Written with clarity and boldness, Anneka Lenssen’s <i>Beautiful Agitation</i> draws on impressive archival research in showing how vitalist philosophies of life animated the work of Syrian artists and artist–activists between 1900 and 1965. For Kahlil Gibran, Adham Ismail, and Fateh al-Moudarres, among others, brushes and pencils could be used to disclose—or gesture toward—the undulations of immanent energies and unseen forces that subtend the painted object. This reservoir of agitating life forces, as Lenssen shows with theoretical subtlety, could spill over into political agitation, not least as it prompted a recognition of the collectives and flows that comprised the modern nation. Deeply historicized and yet also eschewing a reductively “contextualist” approach to Syrian art, Lenssen’s case studies hinge on insightful close readings of a range of palimpsestic, multivalent paintings as well as sketches and drawings, and they model a cyclical rather than progressive or hierarchical account of the global development of modern art. Thus <i>Beautiful Agitation</i> agitates—beautifully—our understanding of modernist form, philosophy, and politics.
 	</p>
 </div>
 <!-- THIRD NOMINEE -->
 <div>
-	<img alt="book cover" src="https://www.upress.umn.edu/book-division/books/happiness-by-design/@@images/image/mini" width="100" height="150" align="left" style="padding:10px;" />
-	<h4>Justus Nieland, <em><a 		href="https://www.upress.umn.edu/book-division/books/happiness-by-design" 		>Happiness by Design: Modernism and Media in the 		Eames Era</a></em> (University of Minnesota Press)</h4>
+	<img alt="book cover" src="https://minnesota-us.imgix.net/covers/9781517902056.jpg?auto=format&w=298&dpr=2&q=100" width="100" height="150" align="left" style="padding:10px;" />
+	<h4>Justus Nieland, <em><a href="https://www.upress.umn.edu/9781517902056/happiness-by-design/">Happiness by Design: Modernism and Media in the Eames Era</a></em> (University of Minnesota Press)</h4>
 <p>From the comfortable vantage of one of Charles and Ray Eames’s chairs—molded of plywood or fiberglass or covered, perhaps, in soft leather—Justus Nieland’s <i>Happiness by Design</i> reimagines mid-century modernism via the media practices of its designers. We have tended to see the vanguard experimentation of the early twentieth century as domesticated by the bureaucratic culture and corporatized communications apparatus of the Cold War. But Nieland traces the continuation of modernist experimentation at mid-century in a body of understudied films and multimedia products produced by the Eameses and their peers. Examined in meticulous detail, this fascinating archive is the grounds for Nieland’s new and often surprising cultural history of modernism—a modernism in which art and design are caught up with corporations and institutions, including the university, as they develop techniques of happiness or “the good life” through media. <i>Happiness by Design</i> is a major interdisciplinary work with implications not only for modernist studies but also for design history, film and media studies, and institutional history.
 	</p>
 </div>
 <!-- FOURTH NOMINEE -->
 <div>
 	<img alt="book cover" src="https://cup-us.imgix.net/covers/9780231185752.jpg?auto=format&amp;w=350" width="100" height="150" align="right" style="padding:10px;" />
-	<h4>Elizabeth Outka, <em><a 		href="http://cup.columbia.edu/book/viral-modernism/9780231185752" 		>Viral Modernism: The Influenza Pandemic and 		Interwar Literature</a></em> (Columbia University Press)</h4>
+	<h4>Elizabeth Outka, <em><a href="http://cup.columbia.edu/book/viral-modernism/9780231185752" >Viral Modernism: The Influenza Pandemic and Interwar Literature</a></em> (Columbia University Press)</h4>
 <p>It’s almost impossible to detach Elizabeth Outka’s <i>Viral Modernism</i> from the circumstances of its reception, the broader context of this past pandemic year. But if <i>Viral Modernism</i> gained additional resonance from its scene of reading—which magnified the new visibility Outka brings to the 1918–1919 pandemic and the shadows it cast over modernist literature—its effect on how we will now forever read works we thought we knew by heart derives purely from Outka’s remarkable sensitivity to text. Arguing for the unacknowledged significance of the pandemic, the mountain of dead occluded by the more “grievable” and public losses of the First World War, she calls up the ghosts at the heart of <i>Mrs Dalloway</i>, <i>The Waste Land</i>, and “The Second Coming” and restores to them their vulnerable materiality. Moving effectively from history to case study, from the ravages of disease to its representation and the “aesthetics of consolation” achievable through modernist form, Outka paints a stunning affective portrait of the pandemic and its relation to cultural memory.</p>
 </div>
 <!-- COMMITTEE -->
@@ -715,57 +714,57 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <!-- WINNER -->
 <div>
 	<img alt="book cover" src="https://cup-us.imgix.net/covers/9780231197113.jpg?auto=format&amp;w=350" width="100" height="150" align="right" style="padding:10px;" />
-	<h4>WINNER: Juno Jill Richards, <em><a 		href="http://cup.columbia.edu/book/the-fury-archives/9780231197113" 		>The Fury Archives: Female Citizenship, Human 		Rights, and the International Avant-Gardes</a></em> (Columbia University Press)</h4>
+	<h4>WINNER: Juno Jill Richards, <em><a href="http://cup.columbia.edu/book/the-fury-archives/9780231197113" >The Fury Archives: Female Citizenship, Human Rights, and the International Avant-Gardes</a></em> (Columbia University Press)</h4>
 <p>This fascinating, wide-ranging study considers the coincidence of first-wave feminism on the one hand and experimental “anti-mimetic” literary and artistic movements such as Dada and Surrealism on the other in order to ask, “How might we understand these currents alongside one another, as part of the same historical moment?” Revising fundamental understandings of the international avant-garde, the book tracks aesthetic commitments through the various scales, tactics, and practices of women’s work and queer work. Richards combines an expansive geographic and linguistic scope with meticulous attention to the formal details of the book's multi-genre archives: from pamphlets and magazines to photographs, plays, novels, autobiographies, and more. Attending to the work of Claude Cahun, Paulette Nardal, and numerous other activist artists both familiar and largely unknown, the project uncovers a rich “archive of female citizenship.” <i>The Fury Archives</i> offers a record of the quotidian practices of activism and waged work, reanimating the historical avant-garde as a living force. </p>
 </div>
 <!-- HONORABLE MENTION 1 -->
 <div>
 	<img src="https://cup-us.imgix.net/covers/9780231196154.jpg?auto=format&w=350" width="100" height="150" align="left" style="padding:10px;" />
-	<h4>HONORABLE MENTION: Debashree Mukherjee, <em><a 		href="https://cup.columbia.edu/book/bombay-hustle/9780231196154" 		>Bombay Hustle: Making Movies in a Colonial City 	</a></em> (Columbia University Press)</h4>
+	<h4>HONORABLE MENTION: Debashree Mukherjee, <em><a href="https://cup.columbia.edu/book/bombay-hustle/9780231196154" >Bombay Hustle: Making Movies in a Colonial City </a></em> (Columbia University Press)</h4>
 <p><i>Bombay Hustle</i> is the product of remarkable archival research, examining the city’s burgeoning film industry with a “practitioner’s eye view.” Mukherjee makes creative use of financial records, court documents, labor history, advertising, newspaper reviews, trade magazines, and other written traces to present a thrilling materialist history of colonial Bombay cinema of the 1920s, ‘30s, and ‘40s. <i>Bombay Hustle</i> rejects the view that the Hollywood model—marked by the vertical integration of the film industry—should be the standard by which all other cinematic production ought to be judged. Instead, Mukherjee suggests that filmmaking in colonial India was defined by hustle, or the stretching of resources—talent, expertise, equipment, and capital—right to the breaking point and sometimes beyond. </p>
 </div>
 <!-- HONORABLE MENTION 2 -->
 <div>
 	<img src="https://images.ucpress.edu/covers/300/9780520309685.jpg" width="100" height="150" align="right" style="padding:10px;" />
-	<h4>HONORABLE MENTION: Joshua Cohen, <em><a 		href="https://www.ucpress.edu/book/9780520309685/the-black-art-renaissance" 		>The “Black Art” Renaissance: African Sculpture and 		Modernism across Continents</a></em> (University of California Press)</h4>
+	<h4>HONORABLE MENTION: Joshua Cohen, <em><a href="https://www.ucpress.edu/book/9780520309685/the-black-art-renaissance" >The “Black Art” Renaissance: African Sculpture and Modernism across Continents</a></em> (University of California Press)</h4>
 <p>When Picasso took inspiration from African masks and sculpture to create <i>Les Demoiselles d’Avignon</i> (1907), to what art objects did he have access through dealers, museums, and private collections? When artists from the African diaspora responded to Picasso’s work, how did they begin to reassess the history of African art and its usefulness for modernist aesthetics? Providing a rich account of material practices in the artworld, Cohen generates a history of twentieth-century aesthetic forms by documenting the intercontinental trade and curation of art objects. <i>The “Black Art” Renaissance</i> offers a revisionist account of the aesthetic traffic between African and European art, using extensive archival research to show what precise art objects circulated and how particular artists and schools made use of what they encountered.
 	</p>
 </div>
 <!-- HONORABLE MENTION 3 -->
 <div>
 	<img src="https://www.upress.umn.edu/book-division/books/the-death-of-things/@@images/image/mini" width="100" height="150" align="left" style="padding:10px;" />
-	<h4>HONORABLE MENTION: Sarah Wasserman, <em><a 		href="https://www.upress.umn.edu/book-division/books/the-death-of-things" 		>The Death of Things: Ephemera and the American 		Novel</a></em> (University of Minnesota Press)</h4>
+	<h4>HONORABLE MENTION: Sarah Wasserman, <em><a href="https://www.upress.umn.edu/book-division/books/the-death-of-things" >The Death of Things: Ephemera and the American Novel</a></em> (University of Minnesota Press)</h4>
 <p><i>The Death of Things</i> directs us to the vexed temporalities that structure literature of the modernist period and extend into the digital age, from discarded utopias to counterfactual histories. The study works on the paradoxical representation of ephemeral objects that do not quite disappear—things that are meant to be discarded or disposed after use yet find themselves preserved in the pages of postwar US fiction. Moving with ease between theories of the novel, object-oriented ontologies, and critical infrastructure studies, the book makes us notice the agency of “stuff” in our desires to re-animate futures that never came to pass, revivifying narrative categories of setting and object. Wasserman’s witty, direct style makes the ambiguities and anxieties that circulate around the ephemeral a pleasure to read.</p>
 </div>
 <!-- FIRST NOMINEE -->
 <div>
 	<img src="https://cup-us.imgix.net/covers/9780231194921.jpg?auto=format&w=350" width="100" height="150" align="right" style="padding:10px;" />
-	<h4> Beth Blum, <em><a 		href="http://cup.columbia.edu/book/the-self-help-compulsion/9780231194921" 		>The Self-Help Compulsion: Searching for Advice in 		Modern Literature</a></em> (Columbia University Press)</h4>
+	<h4> Beth Blum, <em><a href="http://cup.columbia.edu/book/the-self-help-compulsion/9780231194921" >The Self-Help Compulsion: Searching for Advice in Modern Literature</a></em> (Columbia University Press)</h4>
 <p>As unlikely as it might sound, Beth Blum makes a convincing case for reading self-help guides and modernist writing as secret sharers. Although many sociological accounts of the literary field suggest that the artistry of a text can be measured by its distance from instrumental uses, <i>The Self-Help Compulsion</i> contends that these two sectors of the publishing world intersect at a number of key points. The committee was particularly impressed by the book’s scope, taking stock of writers as different as Gustave Flaubert and Samuel Smiles or Ann Landers and V.S. Naipaul.></p>
 </div>
 <!-- SECOND NOMINEE -->
 <div>
 	<img src="https://fordhampress-us.imgix.net/covers/9780823286904.jpg?auto=format&w=298" width="100" height="150" align="left" style="padding:10px;" />
-	<h4>James Edward Ford III, <em><a 		href="https://www.fordhampress.com/9780823286904/thinking-through-crisis/" 		>Thinking Through Crisis: Depression-Era Black 		Literature, Theory, and Politics</a></em> (Fordham University Press)</h4>
+	<h4>James Edward Ford III, <em><a href="https://www.fordhampress.com/9780823286904/thinking-through-crisis/" >Thinking Through Crisis: Depression-Era Black Literature, Theory, and Politics</a></em> (Fordham University Press)</h4>
 <p>Emphasizing the revolutionary potential of the “dark proletariat” in 1930s African American literature, James Edward Ford III’s research shows how antiracist writers forged a creative path where there appeared to be no way forward. With adroit close readings of writing by W.E.B. DuBois, Ida B. Wells, Zora Neale Hurston, Langston Hughes, and Richard Wright, <i>Thinking through Crisis</i> also connects Depression-era struggles with the long history of political activism. This book adds a capacious, imaginative account to the history of radical writing and thought.
 	</p>
 </div>
 <!-- THIRD NOMINEE -->
 <div>
-	<img src="https://www.dukeupress.edu/Assets/Books/978-1-4780-1093-7_pr.jpg" width="100" height="150" align="right" style="padding:10px;" />
-	<h4>Erica Fretwell, <em><a 		href="https://www.dukeupress.edu/sensory-experiments" 		>Sensory Experiments: Psychophysics, Race, and the 		Aesthetics of Feeling</a></em> (Duke University Press)</h4>
+<img src="https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/51535d1d-2261-41be-a5fa-9bf49544b62f/978-1-4780-1093-7_pr.jpg?fm=webp&auto=format" width="100" height="150" align="right" style="padding:10px;" />
+<h4>Erica Fretwell, <em><a href="https://www.dukeupress.edu/sensory-experiments">Sensory Experiments: Psychophysics, Race, and the Aesthetics of Feeling</a></em> (Duke University Press)</h4>
 <p>Examining the once-influential but now virtually forgotten subdiscipline of psychophysics, Erica Fretwell shows how a range of late-nineteenth century writers were in dialogue with scientific efforts to codify sensory perception. In its attempts to provide an empirical account of sensory experiences, psychophysics came into direct contact with the aesthetic realm, especially literature, which had long claimed expertise in matters of taste and feeling. Although these empirical studies were blinkered by social hierarchies, writers as diverse as Emily Dickinson, James Weldon Johnson, and Hellen Keller engaged with psychophysics in order to undermine and contest exclusionary practices.</p>
 </div>
 <!-- FOURTH NOMINEE -->
 <div>
 	<img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/65/9780226659022.jpg/jcr:content/9780226659022.jpg" width="100" height="150" align="left" style="padding:10px;" />
-	<h4>Edgar Garcia, <em><a 		href="https://press.uchicago.edu/ucp/books/book/chicago/S/bo45084542.html" 		>Signs of the Americas: A Poetics of Pictography, 		Hieroglyphs, and Khipu</a></em> (University of Chicago Press)</h4>
+	<h4>Edgar Garcia, <em><a href="https://press.uchicago.edu/ucp/books/book/chicago/S/bo45084542.html">Signs of the Americas: A Poetics of Pictography, Hieroglyphs, and Khipu</a></em> (University of Chicago Press)</h4>
 <p>What if pictographs, hieroglyphs, and khipu are not dead sign-systems, codes to be cracked by archaeologists and linguists, but instead living means of aesthetic signification? This is the wager of <i>Signs of the Americas</i>, Edgar Garcia’s generative and stimulating account of how modern poetics makes use of diverse forms of written signs. Although indigenous sign systems have suffered misuse and appropriation, they also constitute an aesthetic resource in our contemporary moment, demonstrating the resistance and resilience of the native peoples of the Americas.</p>
 </div>
 <!-- FIFTH NOMINEE -->
 <div>
-	<img src="https://jhupbooks.press.jhu.edu/public/covers/9781421439532.jpg" width="100" height="150" align="right" style="padding:10px;" />
-	<h4>Ben Glaser, <em><a 		href="https://jhupbooks.press.jhu.edu/title/modernisms-metronome" 		>Modernism’s Metronome: Meter and Twentieth-Century 		Poetics</a></em> (Johns Hopkins University Press)</h4>
+	<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421439525.jpg" width="100" height="150" align="right" style="padding:10px;" />
+	<h4>Ben Glaser, <em><a href="https://jhupbooks.press.jhu.edu/title/modernisms-metronome">Modernism’s Metronome: Meter and Twentieth-Century Poetics</a></em> (Johns Hopkins University Press)</h4>
 <p>Ezra Pound’s well-known proclamation--“To break the pentameter, that was the first heave”—has become a pithy summary of how modernists used free verse to flush rigid meter out of the poetic system. Ben Glaser’s striking research, however, shows how a surprising number of poets used meter to stretch and bend the forms of prosody. Offering a compelling blend of revelatory close readings and original archival research, <i>Modernism’s Metronome</i> showcases what is best about modernist studies today</p>
 </div>
 <!-- COMMITTEE -->
@@ -779,7 +778,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <h1>MSA Book Prize (for a book published in 2019)</h1>
 <!-- FIRST NOMINEE -->
 <img src="https://cup-us.imgix.net/covers/9780231190022.jpg?auto=format&w=350" alt="" width="100" height="150" align="right"  />
-<h4>Jacob Edmond, <em> <a 	href="https://cup.columbia.edu/book/make-it-the-same/9780231190022" 	>Make It the Same: Poetry in the Age of Global Media </a></em>(Columbia University Press, 2019)</h4>
+<h4>Jacob Edmond, <em> <a href="https://cup.columbia.edu/book/make-it-the-same/9780231190022" >Make It the Same: Poetry in the Age of Global Media </a></em>(Columbia University Press, 2019)</h4>
 <p>To praise the originality of Jacob Edmond’s account of modern poetry
 	might sound rather ironic given the premise of the book, but the
 	sheer ingenuity on display—as Edmond assembles poets from dozens of
@@ -805,7 +804,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	rethought.</p>
 <!-- SECOND NOMINEE -->
 <img src="https://press.uchicago.edu/dam/ucp/books/jacket/978/02/26/60/9780226607955.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Benjamin Kahan, <em> <a 	href="https://press.uchicago.edu/ucp/books/book/chicago/B/bo34250572.html" 	>The Book of Minor Perverts: Sexology, Etiology, and the 	Emergences of Sexuality </a></em>(University of Chicago Press, 2019)</h4>
+<h4>Benjamin Kahan, <em> <a href="https://press.uchicago.edu/ucp/books/book/chicago/B/bo34250572.html" >The Book of Minor Perverts: Sexology, Etiology, and the Emergences of Sexuality </a></em>(University of Chicago Press, 2019)</h4>
 <p>Benjamin Kahan’s book is unlike many in modernist studies. Taking
 	center stage are few major texts or figures from the era, but
 	instead, the “thousand aberrant sexualities” (Foucault) that, over
@@ -834,7 +833,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	itself and the bodies that it once located in time and space.</p>
 <!-- THIRD NOMINEE -->
 <img src="https://global.oup.com/academic/covers/pdp/9780190673123" alt="" width="100" height="150" align="right"  />
-<h4>Catherine Keyser, <em> <a 	href="https://global.oup.com/academic/product/artificial-color-9780190673123?cc=us&lang=en&" 	>Artificial Color: Modern Food and Racial Fictions </a></em> (Oxford University Press, 2019)</h4>
+<h4>Catherine Keyser, <em> <a href="https://global.oup.com/academic/product/artificial-color-9780190673123?cc=us&lang=en&" >Artificial Color: Modern Food and Racial Fictions </a></em> (Oxford University Press, 2019)</h4>
 <p>In <i>Artificial Color</i>, Catherine Keyser brilliantly shows how
 	critical eating studies advances our understanding of early
 	twentieth century racial theories and their centrality to modern
@@ -862,7 +861,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	important book. </p>
 <!-- FOURTH NOMINEE -->
 <img src="https://pup-assets.imgix.net/onix/images/9780691190969.jpg?w=640" alt="" width="100" height="150" align="right" />
-<h4>WINNER: Nadia Nurhussein, <em> <a 	href="https://press.princeton.edu/books/hardcover/9780691190969/black-land" 	>Black Land: Imperial Ethiopianism and African America </a></em> (Princeton University Press)</h4>
+<h4>WINNER: Nadia Nurhussein, <em> <a href="https://press.princeton.edu/books/hardcover/9780691190969/black-land" >Black Land: Imperial Ethiopianism and African America </a></em> (Princeton University Press)</h4>
 <p>In this field-changing book, Nadia Nurhussein brings together and
 	reorients a remarkable number of important currents that modernist
 	studies has alternately gathered and overlooked in the past two
@@ -891,7 +890,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	geopolitical contradictions through literature.</p>
 <!-- FIFTH NOMINEE -->
 <img src="https://cup-us.imgix.net/covers/9780231179836.jpg?auto=format&w=350" alt="" width="100" height="150" align="right"  />
-<h4>Sarah Street and Joshua Yumibe, <em> <a 	href="http://cup.columbia.edu/book/chromatic-modernity/9780231179836" 	>Chromatic Modernity: Color, Cinema, and Media of the 	1920s </a></em> (Columbia University Press, 2019)</h4>
+<h4>Sarah Street and Joshua Yumibe, <em> <a href="http://cup.columbia.edu/book/chromatic-modernity/9780231179836" >Chromatic Modernity: Color, Cinema, and Media of the 1920s </a></em> (Columbia University Press, 2019)</h4>
 <p>In this dynamic book, Sarah Street and Joshua Yumibe provide a
 	sweeping account of how color became a hallmark of modernity in
 	Europe and North America. While it is a cliché to describe the 1920s
@@ -926,7 +925,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <h1>MSA First Book Prize (for a book published in 2019)</h1>
 <!-- FIRST NOMINEE -->
 <img src="https://www.upress.umn.edu/book-division/books/zoological-surrealism/@@images/image/mini" alt="" width="100" height="150" align="right"  />
-<h4>Cahill, James Leo. <em> <a 	href="https://www.upress.umn.edu/book-division/books/zoological-surrealism" 	>Zoological Surrealism: The Nonhuman Cinema of Jean 	Painlevé. </a></em>University of Minnesota Press, 2019.</h4>
+<h4>Cahill, James Leo. <em> <a href="https://www.upress.umn.edu/book-division/books/zoological-surrealism" >Zoological Surrealism: The Nonhuman Cinema of Jean Painlevé. </a></em>University of Minnesota Press, 2019.</h4>
 <p>Do not mistake <i>Zoological Surrealism: The Nonhuman Cinema of Jean Painlevé</i> for a niche author-study or for a peculiar footnote
 	to a familiar art movement. This elegantly written, wide-ranging yet
 	meticulous, constantly surprising work by James Leo Cahill shows how
@@ -940,7 +939,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	vision all suffer a sea-change, into something rich and strange.</p>
 <!-- SECOND NOMINEE -->
 
-<h4>WINNER: Cloutier, Jean-Christophe. <em> <a 	href="http://cup.columbia.edu/book/shadow-archives/9780231193306" 	>Shadow Archives: The Lifecycles of African American 	Literature. </a></em>Columbia University Press, 2019.</h4>
+<h4>WINNER: Cloutier, Jean-Christophe. <em> <a href="http://cup.columbia.edu/book/shadow-archives/9780231193306" >Shadow Archives: The Lifecycles of African American Literature. </a></em>Columbia University Press, 2019.</h4>
 <img src="https://cup-us.imgix.net/covers/9780231193306.jpg?auto=format&w=350" alt="" width="100" height="150" align="right" />
 <p><i>Shadow Archives: The Lifecycles of African American Literature</i> by
 	Jean-Christophe Cloutier is an original exploration of the creation,
@@ -961,7 +960,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	disciplinary futures.</p>
 <!-- THIRD NOMINEE -->
 <img src="https://upittpress.org/wp-content/uploads/2020/01/9780822945550-220x314.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Davis II, Charles L. <em> <a href="https://upittpress.org/authors/charles-l-davis-ii/" 	>Building Character: The Racial Politics of Modern 	Architectural Style. </a></em>University of Pittsburgh Press, 2019.</h4>
+<h4>Davis II, Charles L. <em> <a href="https://upittpress.org/authors/charles-l-davis-ii/" >Building Character: The Racial Politics of Modern Architectural Style. </a></em>University of Pittsburgh Press, 2019.</h4>
 <p><i>Building Character: The Racial Politics of Modern Architectural Style</i> is a compelling, erudite, and timely book by
 	architectural historian Charles L. Davis II. Using the concept of
 	character as an interpretive lens, Davis presents fascinating images
@@ -977,8 +976,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	to discover more principled interpretations of the racial
 	assumptions of organic architectural and modernist traditions.</p>
 <!-- FOURTH NOMINEE -->
-<img src="https://uncpress-us.imgix.net/covers/9781469651286.jpg?auto=format&w=300" alt="" width="100" height="150" align="right"  />
-<h4>Ehlers, Sarah. <em> <a 	href="https://uncpress.org/9781469651286/left-of-poetry/" 	>Left of Poetry: Depression America and the Formation of 	Modernist Poetics. </a></em>University of North Carolina Press, 2019.</h4>
+<img src="https://uncpress-us-new.imgix.net/covers/9781469651286.jpg?auto=format&w=298&blend=https://supadu-imgix.s3.amazonaws.com/uncpress-us-new/AWARD_LEFT_07_2025.png&blend-mode=normal&blend-size=inherit&blend-y=0&dpr=2&q=100" alt="" width="100" height="150" align="right"  />
+<h4>Ehlers, Sarah. <em> <a href="https://uncpress.org/9781469651286/left-of-poetry/" >Left of Poetry: Depression America and the Formation of Modernist Poetics. </a></em>University of North Carolina Press, 2019.</h4>
 <p>In <i>Left of Poetry: Depression America and the Formation of Modern Poetics</i>, Sarah Ehlers asks what makes a political poem: is
 	it an inherent quality or is it reader-ordained? Ehlers’s superb
 	study responds to this question, leading readers to a set of writers
@@ -996,8 +995,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	surprising ways, <i>Left of Poetry</i> cleverly examines the annals
 	of the past to address our own tempestuous political present.</p>
 <!-- FIFTH NOMINEE -->
-<img src="https://assets.cambridge.org/97811087/31782/cover/9781108731782.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Hankins, Gabriel. <em> <a 	href="https://www.cambridge.org/core/books/interwar-modernism-and-the-liberal-world-order/8CD4224E43D112477EB257CD1ED0465B" 	>Interwar Modernism and the Liberal World Order: 	Offices, Institutions, and Aesthetics after 1919. </a></em>Cambridge University Press, 2019.</h4>
+<img src="https://assets.cambridge.org/97811087/31782/large_cover/9781108731782i.jpg" alt="" width="100" height="150" align="right"  />
+<h4>Hankins, Gabriel. <em> <a href="https://www.cambridge.org/core/books/interwar-modernism-and-the-liberal-world-order/8CD4224E43D112477EB257CD1ED0465B" >Interwar Modernism and the Liberal World Order: Offices, Institutions, and Aesthetics after 1919. </a></em>Cambridge University Press, 2019.</h4>
 <p>In his <i>Interwar Modernism and the Liberal World Order</i>, Gabriel
 	Hankins brings a revelatory perspective to the interwar kaleidoscope
 	of modernist politics by turning the axis of reference from familiar
@@ -1014,7 +1013,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	and means for modernist studies.</p>
 <!-- SIXTH NOMINEE -->
 <img src="https://pup-assets.imgix.net/onix/images/9780691193113.jpg?w=640" alt="" width="100" height="150" align="right"  />
-<h4>Micir, Melanie. <em> <a 	href="https://press.princeton.edu/books/hardcover/9780691193113/the-passion-projects" 	>The Passion Projects: Modernist Women, Intimate 	Archives, Unfinished Lives. </a></em> Princeton University Press, 2019.</h4>
+<h4>Micir, Melanie. <em> <a href="https://press.princeton.edu/books/hardcover/9780691193113/the-passion-projects" >The Passion Projects: Modernist Women, Intimate Archives, Unfinished Lives. </a></em> Princeton University Press, 2019.</h4>
 <p>A heroic recovery of queer feminist literary history and criticism,
 	Melanie Micir’s <i>The Passion Projects: Modernist Women, Intimate Archives, Unfinished Lives</i> celebrates women’s defiant
 	literary and personal commitments in the face of ongoing erasure
@@ -1040,7 +1039,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	collection</h1>
 <!-- FIRST NOMINEE -->
 <img src="https://images-na.ssl-images-amazon.com/images/I/515TDAddc-L._SX336_BO1,204,203,200_.jpg" alt="" width="100" height="150" align="right" />
-<h4>WINNER: Ned Blackhawk and Isaiah Lorado Wilner, eds., <em><a 	href="https://yalebooks.yale.edu/book/9780300196511/indigenous-visions/" 	>Indigenous Visions: Rediscovering the World of Franz 	Boas </a></em> (Yale UP, 2018)</h4>
+<h4>WINNER: Ned Blackhawk and Isaiah Lorado Wilner, eds., <em><a href="https://yalebooks.yale.edu/book/9780300196511/indigenous-visions/" >Indigenous Visions: Rediscovering the World of Franz Boas </a></em> (Yale UP, 2018)</h4>
 <p>Franz Boas has received considerable attention from scholars in
 	recent decades, so his roles formulating the disciplinary methods of
 	anthropology, countering pseudo-scientific racisms, and mentoring a
@@ -1064,8 +1063,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	illuminating way for 21st century discussions of global, regional,
 	and local cultures for a wide range of disciplines. </p>
 <!-- SECOND NOMINEE -->
-<img src="sentencingOrlando.jpeg" alt="" width="100" height="150" align="right" />
-<h4>Elsa Högberg and Amy Bromley, eds. <em> <a 	href="https://edinburgh.universitypressscholarship.com/view/10.3366/edinburgh/9781474414609.001.0001/upso-9781474414609" 	>Sentencing Orlando: Virginia Woolf and the Morphology 	of the Modernist Sentence</a>(Edinburgh University Press, 2019)</em></h4>
+<img src="https://oup.silverchair-cdn.com/oup/backfile/content_public/books/33400/book/1/m_9781474414609.jpeg?Expires=1798399323&Signature=2RgRiqJTO4gUhEJzPF0QrYmZ0P-pC~uqaC3V2KTsSGFZQWbcTKs5FwJi58Lpqva3DwafAAvAQZfkozsLtTwY1FCRvkDmKRRHTQQJm-mimYiZV1vRPz4l8ke26r4dG9Q9GiBWyyPp-8wziAn2zXbv8OfXe~-Ehq3jA4EXQZdcxPhY6VyHl~-i28nSzpuwFrmSmczEL8bNZf6q8iYCkQ6taAuOIoAE8FZVy4K1MabpKMjQ4h6o91S3Y6m3ms9k7sAqcVnN8xImr-rSfEKTOXgmZrC-kjiCZ2MDEBVFevo~kklOKAwFEMewy5uGQnuMHToeB6URr-vmjL9tv5w1TakrPQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="" width="100" height="150" align="right" />
+<h4>Elsa Högberg and Amy Bromley, eds. <em> <a href="https://edinburgh.universitypressscholarship.com/view/10.3366/edinburgh/9781474414609.001.0001/upso-9781474414609" >Sentencing Orlando: Virginia Woolf and the Morphology of the Modernist Sentence</a>(Edinburgh University Press, 2019)</em></h4>
 <p>Focused on Woolf’s ludic <i>Orlando</i>– the first scholarly
 	collection to feature Woolf’s tongue-in-cheek experiment with
 	biography and love-letter to Vita Sackville West—<i>Sentencing Orlando</i> ventures into new methodological terrain, taking
@@ -1093,7 +1092,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	and colonial violence.</p>
 <!-- THIRD NOMINEE -->
 <img src="https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_350W/9780374221041.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Heather Cass White, Ed. <em> <a href="https://us.macmillan.com/books/9780374221041">New 	Collected Poems: Marianne Moore </a>(FSG, 2018)</em></h4>
+<h4>Heather Cass White, Ed. <em> <a href="https://us.macmillan.com/books/9780374221041">New Collected Poems: Marianne Moore </a>(FSG, 2018)</em></h4>
 <p>Marianne Moore is one of the most important and innovative poets of
 	the 20th c., but her idiosyncratic practices of revision and
 	omission have made it difficult for scholars to organize and access
@@ -1116,7 +1115,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <h1>2019 MSA Book Prize (for a book published in 2018)</h1>
 <!-- FIRST NOMINEE -->
 <img src="https://global.oup.com/academic/covers/pdp/9780198797005" alt="" width="100" height="150" align="right" />
-<h4>Lyndsey Stonebridge, <em> <a 	href="https://global.oup.com/academic/product/placeless-people-9780198797005?cc=ca&lang=en&" 	>Placeless People: Writing, Rights, and Refugees </a></em>(Oxford UP)</h4>
+<h4>Lyndsey Stonebridge, <em> <a href="https://global.oup.com/academic/product/placeless-people-9780198797005?cc=ca&lang=en&" >Placeless People: Writing, Rights, and Refugees </a></em>(Oxford UP)</h4>
 <p>Lyndsey Stonebridge’s profound, moving and timely book combines a
 	critique of the human rights regime with a reinvestigation of
 	literary modernism and modernist humanist thought. With eloquence
@@ -1150,7 +1149,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	continue to matter.</p>
 <!-- SECOND NOMINEE -->
 <img src="https://pup-assets.imgix.net/onix/images/9780691172224.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Sara Blair, <em> <a href="https://press.princeton.edu/titles/11273.html">How 	the Other Half Looks: The Lower East Side and the 	Afterlife of Images </a></em>(Princeton UP)</h4>
+<h4>Sara Blair, <em> <a href="https://press.princeton.edu/titles/11273.html">How the Other Half Looks: The Lower East Side and the Afterlife of Images </a></em>(Princeton UP)</h4>
 <p>Sara Blair’s <i>How the Other Half Looks</i> takes on near mythic
 	proportions as it recounts, in energetic, sometimes urgent prose,
 	the social dynamics and aesthetic experiments that made the Lower
@@ -1177,7 +1176,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	crucible for the forging of American modernity.</p>
 <!-- THIRD NOMINEE -->
 <img src="https://www.press.uchicago.edu/dam/ucp/books/jacket/978/02/26/55/9780226556284.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Kaira M. Cabañas, <em> <a 	href="https://www.press.uchicago.edu/ucp/books/book/chicago/L/bo28638781.html" 	>Learning from Madness: Brazilian Modernism and Global 	Contemporary Art </a></em> (Chicago UP)</h4>
+<h4>Kaira M. Cabañas, <em> <a href="https://www.press.uchicago.edu/ucp/books/book/chicago/L/bo28638781.html" >Learning from Madness: Brazilian Modernism and Global Contemporary Art </a></em> (Chicago UP)</h4>
 <p>In <i>Learning from Madness</i> Kaira M. Cabañas provides an
 	inspiring case study of a Brazilian modernism that developed in
 	dialogue with the creative work of psychiatric patients. Focusing on
@@ -1204,7 +1203,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	scholarship.</p>
 <!-- FOURTH NOMINEE -->
 <img src="https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/94be0894d7f36521d26c6e455919f28f.jpg?itok=n_NujxW3" alt="" width="100" height="150" align="right"  />
-<h4>Martino Stierli, <em> <a 	href="https://yalebooks.yale.edu/book/9780300221312/montage-and-metropolis" 	>Montage and the Metropolis: Architecture, Modernity, 	and the Representation of Space </a></em> (Yale UP)</h4>
+<h4>Martino Stierli, <em> <a href="https://yalebooks.yale.edu/book/9780300221312/montage-and-metropolis" >Montage and the Metropolis: Architecture, Modernity, and the Representation of Space </a></em> (Yale UP)</h4>
 <p>Martino Stierli’s <i>Montage and the Metropolis</i> is a landmark
 	contribution to our understanding of relationship between the
 	development and representation of urban space and the category and
@@ -1239,7 +1238,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <h1>MSA First Book Prize (for a book published in 2018)</h1>
 <!-- FIRST NOMINEE -->
 <img src="https://www.press.uchicago.edu/dam/ucp/books/jacket/978/02/26/28/9780226286556.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Lucia Allais, <em> <a 	href="https://www.press.uchicago.edu/ucp/books/book/chicago/D/bo28907758.html" 	>Designs of Destruction: The Making of Monuments in the 	Twentieth Century </a></em>(University of Chicago Press)</h4>
+<h4>Lucia Allais, <em> <a href="https://www.press.uchicago.edu/ucp/books/book/chicago/D/bo28907758.html" >Designs of Destruction: The Making of Monuments in the Twentieth Century </a></em>(University of Chicago Press)</h4>
 <p>In the stunning <i>Designs of Destruction: The Making of Monuments in the Twentieth Century</i>, architectural historian Lucia Allais,
 	with breath-taking—but wholly realized—ambition, provides a
 	fascinating and path-breaking approach to global architectural
@@ -1261,7 +1260,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	culture, and the history of modernity.</p>
 <!-- SECOND NOMINEE -->
 <p>
-<h4>Michaela Bronstein, <em> <a 	href="https://global.oup.com/academic/product/out-of-context-9780190655396?cc=ca&lang=en&" 	>Out of Context: The Uses of Modernist Fiction </a></em>(Oxford University Press)</h4>
+<h4>Michaela Bronstein, <em> <a href="https://global.oup.com/academic/product/out-of-context-9780190655396?cc=ca&lang=en&" >Out of Context: The Uses of Modernist Fiction </a></em>(Oxford University Press)</h4>
 <img src="https://global.oup.com/academic/covers/pdp/9780190655396" alt="" width="100" height="150" align="right" />In this assured
 	and elegant book, Michaela Bronstein asks us to consider what power
 	the past holds over the present, and the shifting relation of the
@@ -1283,8 +1282,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	chronology of influence and the possible role of modernist novels as
 	providing “tools for a new era.”</p>
 <!-- THIRD NOMINEE -->
-<img src="https://edinburghuniversitypress.com/pub/media/catalog/product/cache/c57119711f6f6be310d32fe7539c40f3/9/7/9781474452434_3.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Jesse Schotter, <em> <a 	href="https://edinburghuniversitypress.com/book-hieroglyphic-modernisms.html" 	>Hieroglyphic Modernisms: Writing and New Media in the 	Twentieth Century </a></em>(Edinburgh University Press)</h4>
+<img src="https://edinburghuniversitypress.com/media/catalog/product/cache/c57119711f6f6be310d32fe7539c40f3/9/7/9781474452434_2.jpg" alt="" width="100" height="150" align="right"  />
+<h4>Jesse Schotter, <em> <a href="https://edinburghuniversitypress.com/book-hieroglyphic-modernisms.html" >Hieroglyphic Modernisms: Writing and New Media in the Twentieth Century </a></em>(Edinburgh University Press)</h4>
 <p>With a wonderfully lucid style, <i>Hieroglyphic Modernisms</i>
 	deciphers the hieroglyphs at the heart of literary, cinematic, and
 	digital modernism. Schotter argues that modernist theories of media
@@ -1309,7 +1308,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	modernism and comparative media studies.</p>
 <!-- FOURTH NOMINEE -->
 <img src="https://assets.cambridge.org/97811084/46471/cover/9781108446471.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Kate Stanley, <em> <a 	href="https://www.cambridge.org/core/books/practices-of-surprise-in-american-literature-after-emerson/72CA4E4FAB23B923D076ECECAA55A238" 	>Practices of Surprise in American Literature After 	Emerson </a></em>(Cambridge University
+<h4>Kate Stanley, <em> <a href="https://www.cambridge.org/core/books/practices-of-surprise-in-american-literature-after-emerson/72CA4E4FAB23B923D076ECECAA55A238" >Practices of Surprise in American Literature After Emerson </a></em>(Cambridge University
 	Press)</h4>
 <p>Shifting our attention from a poetics of shock to a more temporally
 	capacious understanding of surprise, Kate Stanley’s ambitious study
@@ -1332,8 +1331,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	to its commitment to the belief that books can teach readers to see
 	things in surprising ways.</p>
 <!-- FIFTH NOMINEE -->
-<img src="https://www.hup.harvard.edu/images/jackets/9780674984431.jpg" alt="" width="100" height="150" align="right" />
-<h4>WINNER: Robert Stilling, <em> <a 	href="https://www.hup.harvard.edu/catalog.php?isbn=9780674984431" 	>Beginning at the End: Decadence, Modernism, and 	Postcolonial Poetry </a></em> (Harvard University Press)</h4>
+<img src="https://www.hup.harvard.edu/img/feeds/jackets/9780674984431.png?fm=jpg&q=80&fit=max&w=1200" alt="" width="100" height="150" align="right" />
+<h4>WINNER: Robert Stilling, <em> <a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674984431" >Beginning at the End: Decadence, Modernism, and Postcolonial Poetry </a></em> (Harvard University Press)</h4>
 <p>This major publication gives new and global life to decadence. Robert
 	Stilling argues that aestheticism and literary decadence, movements
 	deeply associated with the decline of European empires, provided a
@@ -1359,7 +1358,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	together.</p>
 <!-- SIXTH NOMINEE -->
 <img src="https://northwest-press-us.imgix.net/covers/9780810137400.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Sara J. Townsend, <em> <a 	href="https://nupress.northwestern.edu/9780810137400/the-unfinished-art-of-theater/" 	>The Unfinished Art of Theater: Avant-Garde 	Intellectuals in Mexico and Brazil </a></em> (Northwestern University Press)</h4>
+<h4>Sara J. Townsend, <em> <a href="https://nupress.northwestern.edu/9780810137400/the-unfinished-art-of-theater/" >The Unfinished Art of Theater: Avant-Garde Intellectuals in Mexico and Brazil </a></em> (Northwestern University Press)</h4>
 <p>In this outstanding book, Sarah J. Townsend uncovers a series of
 	fascinating stories from the early twentieth century histories of
 	the Mexican and Brazilian avant-gardes, stories centered on
@@ -1387,9 +1386,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <!-- 2018 BOOK PRIZE -->
 <!--WINNER-->
 <h1>2018 MSA Book Prize Winner (for a book published in 2017)</h1>
-<img src="https://cup-us.imgix.net/covers/9780231175746.jpg?w=350" alt="" width="100" height="150" align="right"
-	 />
-	 <h4>Christopher Reed, <em> <a 	href="https://cup.columbia.edu/book/bachelor-japanists/9780231175753" 	>Bachelor Japanists: Japanese Aesthetics and Western 	Masculinities </a></em> (Columbia)</h4>
+<img src="https://cup-us.imgix.net/covers/9780231175746.jpg?w=350" alt="" width="100" height="150" align="right" />
+<h4>Christopher Reed, <em> <a href="https://cup.columbia.edu/book/bachelor-japanists/9780231175753" >Bachelor Japanists: Japanese Aesthetics and Western Masculinities </a></em> (Columbia)</h4>
 <p><i>Bachelor Japanists</i> is a deeply researched, beautifully
 	written, rewarding account of Western connoisseurs’ engagements with
 	a Japan of their wishful imagination across almost a century. As we
@@ -1405,7 +1403,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	pleasures.</p>
 <!-- FIRST NOMINEE -->
 <img src="https://cup-us.imgix.net/covers/9780231179768.jpg" alt="" width="100" height="150" align="right" />
-<h4>Eric Bulson, <em> <a 	href="https://cup.columbia.edu/book/little-magazine-world-form/9780231179768" 	>Little Magazine, World Form </a></em>(Columbia)</h4>
+<h4>Eric Bulson, <em> <a href="https://cup.columbia.edu/book/little-magazine-world-form/9780231179768" >Little Magazine, World Form </a></em>(Columbia)</h4>
 <p>Two decades after the founding of the Modernist Journals Project, the
 	archive of modernist little magazines seemed settled, the protocols
 	for studying them established. Eric Bulson’s <i>Little Magazine, World Form</i> dramatically alters this consensus, by expanding
@@ -1432,7 +1430,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	— further work.</p>
 <!-- SECOND NOMINEE -->
 <img src="https://images-na.ssl-images-amazon.com/images/I/41tmwp6cbIL._SX329_BO1,204,203,200_.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Evan Kindley, <em> <a 	href="http://www.hup.harvard.edu/catalog.php?isbn=9780674980075" 	>Poet-Critics and the Administration of Culture </a></em>(Harvard)</h4>
+<h4>Evan Kindley, <em> <a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674980075" >Poet-Critics and the Administration of Culture </a></em>(Harvard)</h4>
 <p>The expectation that poets should also write criticism is an idea
 	that has become almost as naturalized as the association of poets
 	with the culture and curriculum of the university. With a keen eye
@@ -1464,7 +1462,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	today.</p>
 <!-- THIRD NOMINEE -->
 <img src="https://images-na.ssl-images-amazon.com/images/I/61gITDA99vL._SX367_BO1,204,203,200_.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Monica Penick, <em> <a 	href="https://yalebooks.yale.edu/book/9780300221763/tastemaker" 	>Tastemaker: Elizabeth Gordon, House Beautiful, and the 	Postwar American Home </a></em> (Yale)</h4>
+<h4>Monica Penick, <em> <a href="https://yalebooks.yale.edu/book/9780300221763/tastemaker" >Tastemaker: Elizabeth Gordon, House Beautiful, and the Postwar American Home </a></em> (Yale)</h4>
 <p>When we think of postwar American architecture and the modernist
 	aesthetics that it bequeaths, we think of Frank Lloyd Wright, Walter
 	Gropius, Marcel Breuer, Philip Johnson, and other famous men. Few
@@ -1505,7 +1503,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <h1>MSA First Book Prize Winner (for a book published in 2017)</h1>
 <img src="https://images-na.ssl-images-amazon.com/images/I/61AIV-cHDJL._SX331_BO1,204,203,200_.jpg" alt="" width="100" height="150" align="right"
 	 />
-<h4>Adrienne Brown, <em> <a 	href="https://jhupbooks.press.jhu.edu/content/black-skyscraper" 	>The Black Skyscraper: Architecture and the Perception 	of Race </a></em> (Johns Hopkins UP, 2017)</h4>
+<h4>Adrienne Brown, <em> <a href="https://jhupbooks.press.jhu.edu/content/black-skyscraper" >The Black Skyscraper: Architecture and the Perception of Race </a></em> (Johns Hopkins UP, 2017)</h4>
 <p>How did modern architecture mediate the lived experience of race?
 	Bringing together the cross-cutting histories of Reconstruction,
 	late nineteenth-century immigration into the United States, and the
@@ -1530,8 +1528,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	and the shadows it cast, produced crucial – and until now overlooked
 	– racial dimensions of American modernism.</p>
 <!-- FIRST NOMINEE -->
-<img src="https://pwb02mw.press.jhu.edu/sites/default/files/posmentier.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Sonya Posmentier, <em> <a 	href="https://jhupbooks.press.jhu.edu/content/cultivation-and-catastrophe" 	>Cultivation and Catastrophe: The Lyric Ecology of Black 	Literature </a></em>(Johns Hopkins UP,
+<img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421437934.jpg" alt="" width="100" height="150" align="right"  />
+<h4>Sonya Posmentier, <em> <a href="https://www.press.jhu.edu/books/title/11881/cultivation-and-catastrophe" >Cultivation and Catastrophe: The Lyric Ecology of Black Literature </a></em>(Johns Hopkins UP,
 	2017)</h4>
 <p>Impressive in both scope and depth, Sonya Posmentier’s <i>Cultivation and Catastrophe: The Lyric Ecology of Black Literature</i> opens
 	new horizons for ecocritical study of Black literature, particularly
@@ -1556,7 +1554,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	on the bio-political work of many literatures. </p>
 <!-- SECOND NOMINEE -->
 
-<h4>Catherine Walworth, <em> <a 	href="https://www.psupress.org/books/titles/978-0-271-07769-7.html" 	>Soviet Salvage: Imperial Debris, Revolutionary Reuse, 	and Russian Constructivism </a></em>(Penn State UP, 2018)</h4>
+<h4>Catherine Walworth, <em> <a href="https://www.psupress.org/books/titles/978-0-271-07769-7.html" >Soviet Salvage: Imperial Debris, Revolutionary Reuse, and Russian Constructivism </a></em>(Penn State UP, 2018)</h4>
 <img src="http://www.psupress.org/images/covers/294wide/978-0-271-07769-7md_294.jpg" alt="" width="100" height="150" align="right" />
 <p>An astute,
 	impish bricoleur’s voice enlivens <i>Soviet Salvage: Imperial Debris, Revolutionary Reuse, and Russian Constructivism</i>—as
@@ -1588,7 +1586,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	remaking. </p>
 <!-- THIRD NOMINEE -->
 <img src="https://northwest-press-us.imgix.net/covers/9780810135390.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Tom McEnaney, <em> <a 	href="https://nupress.northwestern.edu/9780810135390/acoustic-properties/" 	>Acoustic Properties: Radio, Narrative, and the New 	Neighborhood of the Americas </a></em>(Northwestern University Press, 2017)</h4>
+<h4>Tom McEnaney, <em> <a href="https://nupress.northwestern.edu/9780810135390/acoustic-properties/" >Acoustic Properties: Radio, Narrative, and the New Neighborhood of the Americas </a></em>(Northwestern University Press, 2017)</h4>
 <p>The role of radio’s “narrative acoustics” in in reshaping social
 	relations across the Americas is the subject of this superb study,
 	which combines rigorously revisionist media history with visionary
@@ -1613,7 +1611,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	transformative.</p>
 <!-- FOURTH NOMINEE -->
 <img src="http://www.psupress.org/images/covers/294wide/978-0-271-07674-4md_294.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Allison Morehead, <em> <a 	href="http://www.psupress.org/books/titles/978-0-271-07674-4.html" 	>Nature’s Experiments and the Search for Symbolist Form </a></em>(The Pennsylvania State University Press, 2017)</h4>
+<h4>Allison Morehead, <em> <a href="http://www.psupress.org/books/titles/978-0-271-07674-4.html" >Nature’s Experiments and the Search for Symbolist Form </a></em>(The Pennsylvania State University Press, 2017)</h4>
 <p>Morehead’s ingenious work shifts the very foundations of modernist
 	visual culture through nothing less than a redefinition of modernist
 	symbolism, which now emerges as product of the
@@ -1636,8 +1634,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	Morehead discovers the ethics as well as the aesthetics of
 	symbolism’s secret naturalism.</p>
 <!-- FIFTH NOMINEE -->
-<img src="https://www.dukeupress.edu/Assets/Books/978-0-8223-6919-6_pr.jpg" alt="" width="100" height="150" align="right"  />
-<h4>William Schaefer, <em> <a href="https://www.dukeupress.edu/shadow-modernism">Shadow 	Modernism: Photography, Writing and Space in Shanghai, 	1925-1937</a></em> (Duke UP, 2017).</h4>
+<img src="https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/50a8fb0e-2acf-49c2-8e2e-4720b0c50a1c/978-0-8223-6919-6_pr.jpg?fm=webp&auto=format" alt="" width="100" height="150" align="right"  />
+<h4>William Schaefer, <em> <a href="https://www.dukeupress.edu/shadow-modernism">Shadow Modernism: Photography, Writing and Space in Shanghai, 1925-1937</a></em> (Duke UP, 2017).</h4>
 <p><i>Shadow Modernism</i> brings a welcome historical and theoretical
 	dynamism to modernism’s international currents. Schaefer eschews
 	longstanding East/West dichotomies to explain how Shanghai’s dense
@@ -1666,7 +1664,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <hr />
 <!-- 2018 EDITION, ANTHOLOGY, OR ESSAY COLLECTION -->
 <h1>2017 MSA Book Prize Winner for for an edition, anthology, or essay collection</h1>
-<h4>Christopher Ricks and Jim McCue</strong> for <em><a href="https://www.faber.co.uk/shop/poetry/9780571238705-t-s-eliot-the-poems-volume-one.html" >The Poems of T.S. Eliot </a></em>(London: Faber & Faber,
+<h4>Christopher Ricks and Jim McCue for <em><a href="https://www.faber.co.uk/shop/poetry/9780571238705-t-s-eliot-the-poems-volume-one.html" >The Poems of T.S. Eliot </a></em>(London: Faber & Faber,
 	2015)</h4>
 <img src="https://www.faber.co.uk/wp-content/uploads/2025/12/Poems-of-T.-S.-Eliot-Volume-I-2.jpg" alt="" width="100" height="150" align="right" />
 <p>This major publication is a landmark in
@@ -1684,7 +1682,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	editorial policy and practice is matchless.</p>
 <!-- FIRST NOMINEE -->
 <img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/06/9780226068374.jpg/jcr:content/9780226068374.jpg" alt="" width="100" height="150" align="right" />
-<h4>Heather Bowen-Struyk and Norma Field, eds. <em><a 	href="http://press.uchicago.edu/ucp/books/book/chicago/F/bo5828625.html" 	>For Dignity, Justice, and Revolution: An Anthology of 	Japanese Proletarian Literature </a></em> (University of Chicago Press, 2016)</h4>
+<h4>Heather Bowen-Struyk and Norma Field, eds. <em><a href="http://press.uchicago.edu/ucp/books/book/chicago/F/bo5828625.html" >For Dignity, Justice, and Revolution: An Anthology of Japanese Proletarian Literature </a></em> (University of Chicago Press, 2016)</h4>
 <p><i>For Dignity, Justice, and Revolution</i> fills an important gap in
 	modernist studies. Painstakingly assembled, expertly translated, and
 	skilfully edited into thematic (justice, imperialism, and
@@ -1699,7 +1697,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	proletariat as such.</p>
 <!-- SECOND NOMINEE -->
 <img src="https://global.oup.com/academic/covers/pop-up/9780198704393" alt="" width="100" height="150" align="right" />
-<h4>Laura Marcus, Michele Mendelssohn, and Kirsten E. Shepherd-Barr, eds. <em> <a 	href="https://global.oup.com/academic/product/late-victorian-into-modern-9780198704393?cc=us&lang=en&" 	>Late Victorian into Modern </a></em>(Oxford: Oxford University Press, 2016)</h4>
+<h4>Laura Marcus, Michele Mendelssohn, and Kirsten E. Shepherd-Barr, eds. <em> <a href="https://global.oup.com/academic/product/late-victorian-into-modern-9780198704393?cc=us&lang=en&" >Late Victorian into Modern </a></em>(Oxford: Oxford University Press, 2016)</h4>
 <p>This impressive collection illuminates modernism through a
 	much-needed focus on the ‘in-between’ literary and cultural moments
 	and formations that signal the transition and interrelation between
@@ -1712,7 +1710,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	periodisation.</p>
 <!-- THIRD NOMINEE -->
 <img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421420622.jpg" alt="" width="100" height="150" align="right" />
-<h4>Richard Begam and Matthew Wilson Smith, eds. <em> <a 	href="https://jhupbooks.press.jhu.edu/content/modernism-and-opera" 	>Modernism and Opera </a></em>(John Hopkins University Press, 2016)</h4>
+<h4>Richard Begam and Matthew Wilson Smith, eds. <em> <a href="https://jhupbooks.press.jhu.edu/content/modernism-and-opera" >Modernism and Opera </a></em>(John Hopkins University Press, 2016)</h4>
 <p>Methodologically sophisticated and genuinely innovative, Modernism
 	and Opera is a necessary book. The editors have brought together
 	leading musicologists, performance and literary scholars, in a
@@ -1727,7 +1725,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	century culture as a whole.</p>
 <!-- FOURTH NOMINEE -->
 <img src="https://yale-press-us.imgix.net/covers/9780300181777.jpg?auto=format&w=298&dpr=2&q=100" alt="" width="100" height="150" align="right" />
-<h4>Mark Gaipa, Sean Latham, & Robert Scholes, eds. <em> <a 	href="http://yalebooks.yale.edu/book/9780300181777/little-review-ulysses" 	>The Little Review "Ulysses", </a></em>(New Haven: Yale University Press, 2015)</h4>
+<h4>Mark Gaipa, Sean Latham, & Robert Scholes, eds. <em> <a href="http://yalebooks.yale.edu/book/9780300181777/little-review-ulysses" >The Little Review "Ulysses", </a></em>(New Haven: Yale University Press, 2015)</h4>
 <p>Readers tend to associate <i>Ulysses</i> with the <i>annus mirabilis</i> of 1922, yet the novel was first (part) published
 	between 1918 and 1920, serialized in the <i>The Little Review</i>,
 	edited by Margaret Anderson and Jane Heap, until the sensational
@@ -1743,7 +1741,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	we read, teach and respond to literary modernism.</p>
 <!-- SIXTH NOMINEE -->
 <img src="https://www.openhumanitiespress.org/book-covers/writing-medium-machine_cover_200x300.jpg" alt="" width="100" height="150" align="right" />
-<h4>Sean Pryor and David Trotter, eds. <em> <a 	href="http://www.openhumanitiespress.org/books/titles/writing-medium-machine/" 	>Writing, Medium, Machine: Modern Technographies </a></em>(London: Open Humanities Press, 2016)</h4>
+<h4>Sean Pryor and David Trotter, eds. <em> <a href="http://www.openhumanitiespress.org/books/titles/writing-medium-machine/" >Writing, Medium, Machine: Modern Technographies </a></em>(London: Open Humanities Press, 2016)</h4>
 <p>This sophisticated collection gathers together highly readable,
 	theorised and informative essays on the technologies of writing that
 	underpin the modernist aesthetic, defining genres and some of its
@@ -1767,7 +1765,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <!-- WINNER -->
 <img src="https://global.oup.com/academic/covers/pop-up/9780198749615" alt="" width="100" height="150" align="right" />
 
-<h4>Emily C. Bloom, <em><a 	href="https://global.oup.com/academic/product/the-wireless-past-9780198749615?cc=ca&lang=en&" 	>The Wireless Past: Anglo-Irish Writers and the BBC, 	1931-1968 </a></em>(Oxford University Press, 2016)</h4>
+<h4>Emily C. Bloom, <em><a href="https://global.oup.com/academic/product/the-wireless-past-9780198749615?cc=ca&lang=en&" >The Wireless Past: Anglo-Irish Writers and the BBC, 1931-1968 </a></em>(Oxford University Press, 2016)</h4>
 <p>Despite being distinct in terms of politics and aesthetics, W. B.
 	Yeats, Louis MacNeice, Elizabeth Bowen and Samuel Beckett are bound
 	together by their extensive engagement with the radio medium. In <i>The Wireless Past</i>, Emily Bloom examines how modern
@@ -1788,7 +1786,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <h1>MSA First Book Prize shortlist (for a book published in 2016)</h1>
 <!-- SECOND NOMINEE -->
 
-<h4>Noam M. Elcott, <em> <a 	href="http://press.uchicago.edu/ucp/books/book/chicago/A/bo22879419.html" 	>Artificial Darkness: An Obscure History of Modern Art 	and Media </a></em>(University of Chicago Press, 2016)</h4>
+<h4>Noam M. Elcott, <em> <a href="http://press.uchicago.edu/ucp/books/book/chicago/A/bo22879419.html" >Artificial Darkness: An Obscure History of Modern Art and Media </a></em>(University of Chicago Press, 2016)</h4>
 <img src="https://press.uchicago.edu/.imaging/mte/ucp/medium/dam/ucp/books/jacket/978/02/26/32/9780226328973.jpg/jcr:content/9780226328973.jpg" alt="" width="100" height="150" align="right" />
 <p>Noam M. Elcott thrillingly flips our attention
 	from the illuminating force of modern media to the elemental
@@ -1809,7 +1807,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	ground through which our modern figures are conceived.</p>
 <!-- THIRD NOMINEE -->
 <img src="https://global.oup.com/academic/covers/pop-up/9780198767701" alt="" width="100" height="150" align="right" />
-<h4>Cóilín Parsons, <em> <a 	href="https://global.oup.com/academic/product/the-ordnance-survey-and-modern-irish-literature-9780198767701?cc=ca&lang=en&" 	>The Ordnance Survey and Modern Irish Literature </a></em>(Oxford University Press, 2016) </h4>
+<h4>Cóilín Parsons, <em> <a href="https://global.oup.com/academic/product/the-ordnance-survey-and-modern-irish-literature-9780198767701?cc=ca&lang=en&" >The Ordnance Survey and Modern Irish Literature </a></em>(Oxford University Press, 2016) </h4>
 <p><i>The Ordnance Survey and Modern Irish Literature</i> presents a new
 	map of Irish modernism. Parsons's account of the Ordnance Survey
 	reveals this state-sponsored mapping project of the nineteenth
@@ -1826,7 +1824,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	thorough imbrication of mapping within modernism.</p>
 <!-- FOURTH NOMINEE -->
 <img src="https://cup-us.imgix.net/covers/9780231176965.jpg?auto=format&w=350" alt="" width="100" height="150" align="right" />
-<h4>Richard Jean So, <em> <a 	href="https://cup.columbia.edu/book/transpacific-community/9780231176965" 	>Transpacific Community: America, China, and the Rise 	and Fall of a Cultural Network </a></em>(Columbia University Press, 2016)</h4>
+<h4>Richard Jean So, <em> <a href="https://cup.columbia.edu/book/transpacific-community/9780231176965" >Transpacific Community: America, China, and the Rise and Fall of a Cultural Network </a></em>(Columbia University Press, 2016)</h4>
 <p><i>Transpacific Community</i> returns to humanist principles as a
 	vital mode for comprehending a transpacific network of public
 	intellectuals in the interwar period. By attending to the use and
@@ -1851,7 +1849,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <h1>2017 MSA Book Prize (for a book published in 2016)</h1>
 <!-- WINNER -->
 <img src="https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale,dpr_1.5/jackets/9781786721631.jpg" alt="" width="100" height="150" align="right" />
-<h4>Sam Bardaouil's <em> <a 	href="https://www.bloomsbury.com/us/surrealism-in-egypt-9781786721631/" 	>Surrealism in Egypt: Modernism and the Art and Liberty 	Group </a></em>(I.B. Taurus, 2016)</h4>
+<h4>Sam Bardaouil's <em> <a href="https://www.bloomsbury.com/us/surrealism-in-egypt-9781786721631/" >Surrealism in Egypt: Modernism and the Art and Liberty Group </a></em>(I.B. Taurus, 2016)</h4>
 <p><i>Surrealism in Egypt</i> historically and critically recuperates
 	the Art and Liberty surrealist group in World War II Egypt. While
 	recovering this late modernist network, it leverages the
@@ -1875,7 +1873,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <h1>MSA Book Prize Shortlist (for a book published in 2016)</h1>
 <!-- SECOND NOMINEE -->
 <img src="https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9781474413480/resource/name/9781474413480i.jpg" alt="" width="100" height="150" align="right" />
-<h4>Patrick Collier, <em> <a 	href="https://global.oup.com/academic/product/modern-print-artefacts-9781474413473?cc=ca&lang=en&" 	>Modern Print Artefacts: Textual Materiality and 	Literary Value in British Print Culture, 1890–1930s </a></em> (Edinburgh University Press, 2016)</h4>
+<h4>Patrick Collier, <em> <a href="https://global.oup.com/academic/product/modern-print-artefacts-9781474413473?cc=ca&lang=en&" >Modern Print Artefacts: Textual Materiality and Literary Value in British Print Culture, 1890–1930s </a></em> (Edinburgh University Press, 2016)</h4>
 <p><i>Modern Print Artefacts</i> delivers a rich rethinking of the
 	materiality of texts, resonantly and emphatically turning attention
 	to the physical artefact from a broader modernism of periodicals yet
@@ -1892,7 +1890,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	material history of modernism.</p>
 <!-- THIRD NOMINEE -->
 <img src="https://cup-us.imgix.net/covers/9780231169424.jpg?auto=format&w=350" alt="" width="100" height="150" align="right" />
-<h4>Thomas S. Davis, <em> <a 	href="https://cup.columbia.edu/book/the-extinct-scene/9780231169424" 	>The Extinct Scene: Late Modernism and Everyday Life </a></em> (Columbia University Press, 2016)</h4>
+<h4>Thomas S. Davis, <em> <a href="https://cup.columbia.edu/book/the-extinct-scene/9780231169424" >The Extinct Scene: Late Modernism and Everyday Life </a></em> (Columbia University Press, 2016)</h4>
 <p><i>The Extinct Scene</i> shows that the everyday has not only arrived
 	in modernist studies but has continuing vitality in the quotidian of
 	late modernism. The project is entirely readable with a consistently
@@ -1906,7 +1904,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	modernism or the everyday that does not engage with <i>The Extinct Scene</i>.</p>
 <!-- FOURTH NOMINEE -->
 <img src="https://global.oup.com/academic/covers/pop-up/9780199972128" alt="" width="100" height="150" align="right" />
-<h4>Andrew Epstein, <em> <a 	href="https://global.oup.com/academic/product/attention-equals-life-9780199972128?cc=ca&lang=en&" 	>Attention Equals Life: The Pursuit of the Everyday in 	Contemporary Poetry and Culture </a></em> (Oxford University Press, 2016)</h4>
+<h4>Andrew Epstein, <em> <a href="https://global.oup.com/academic/product/attention-equals-life-9780199972128?cc=ca&lang=en&" >Attention Equals Life: The Pursuit of the Everyday in Contemporary Poetry and Culture </a></em> (Oxford University Press, 2016)</h4>
 <p><i>Attention Equals Life</i> is the culmination of work from the past
 	several years on modernism and the everyday, particularly American
 	poetry moving toward the mid-century. The book is extremely readable
@@ -1926,7 +1924,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	work.</p>
 <!-- FIFTH NOMINEE -->
 <img src="https://cup-us.imgix.net/covers/9780231166508.jpg?auto=format&w=350" alt="" width="100" height="150" align="right" />
-<h4>Carrie J. Preston, <em> <a 	href="https://cup.columbia.edu/book/learning-to-kneel/9780231166508" 	>Learning to Kneel: Noh, Modernism, and Journeys in 	Teaching </a></em> (Columbia University Press, 2016)</h4>
+<h4>Carrie J. Preston, <em> <a href="https://cup.columbia.edu/book/learning-to-kneel/9780231166508" >Learning to Kneel: Noh, Modernism, and Journeys in Teaching </a></em> (Columbia University Press, 2016)</h4>
 <p><i>Learning to Kneel</i> delivers an enticingly original approach to
 	Noh and modernism that interweaves research and personal experience
 	as well as scholarship and pedagogical experience. In doing so, it
@@ -1952,8 +1950,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <hr />
 <!-- 2016 WINNERS -->
 <h1>2016 MSA Book Prize</h1>
-<h4>Paul Saint-Amour</strong>'s <em><a href="https://global.oup.com/academic/product/tense-future-9780190200954?cc=us&lang=en&" > Tense Future: Modernism, Total War, Encyclopedic Form </a></em> (Oxford University Press, 2015)</h4>
-<img src="https://global.oup.com/academic/covers/pop-up/9780190200954" alt="" width="100" height="150" align="right" /></p>
+<h4>Paul Saint-Amour, <em><a href="https://global.oup.com/academic/product/tense-future-9780190200954?cc=us&lang=en&" > Tense Future: Modernism, Total War, Encyclopedic Form </a></em> (Oxford University Press, 2015)</h4>
+<img src="https://global.oup.com/academic/covers/pop-up/9780190200954" alt="" width="100" height="150" align="right" />
 <p><i>Tense Future</i> tackles modernism as a product of the interwar
 	period in terms of the collective psychological effects of the
 	imminent dread produced by total war. The study draws out this new
@@ -1979,7 +1977,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	finalists.</p>
 <!-- FIRST NOMINEE -->
 <img src="https://minnesota-us.imgix.net/covers/9780816681341.jpg?auto=format&w=298&dpr=2&q=100" alt="" width="100" height="150" align="right" />
-<h4>Weihong Bao, <em> <a 	href="https://www.upress.umn.edu/book-division/books/fiery-cinema" 	>Fiery Cinema: The Emergence of an Affective Medium in 	China, 1915-1945 </a></em> (University of Minnesota Press, 2015)</h4>
+<h4>Weihong Bao, <em> <a href="https://www.upress.umn.edu/book-division/books/fiery-cinema" >Fiery Cinema: The Emergence of an Affective Medium in China, 1915-1945 </a></em> (University of Minnesota Press, 2015)</h4>
 <p><i>Fiery Cinema</i> tracks the emergence of a particular set of
 	discourses around and practices in Chinese cinema in the period
 	1915-45. In this context, it argues, cinema is understood to be an
@@ -2000,7 +1998,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <!-- SECOND NOMINEE -->
 <!-- THIRD NOMINEE -->
 <img src="http://press.princeton.edu/images/k10321.gif" alt="" width="100" height="150" align="right"  />
-<h4>William J. Maxwell, <em> <a href="http://press.princeton.edu/titles/10321.html">F.B. 	Eyes: How J. Edgar Hoover’s Ghostreaders Framed African 	American Literature </a></em> (Princeton University Press, 2015)</h4>
+<h4>William J. Maxwell, <em> <a href="http://press.princeton.edu/titles/10321.html">F.B. Eyes: How J. Edgar Hoover’s Ghostreaders Framed African American Literature </a></em> (Princeton University Press, 2015)</h4>
 <p><i>F.B. Eyes</i> is an extraordinarily rich account of FBI
 	surveillance of African American modernists from the origins of the
 	FBI to the 1970s. It is striking not only for its account of the
@@ -2024,7 +2022,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 
 <!-- FIFTH NOMINEE -->
 <img src="http://assets.cambridge.org/97811070/79328/cover/9781107079328.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Vincent Sherry, <em> <a 	href="http://www.cambridge.org/us/academic/subjects/literature/english-literature-1900-1945/modernism-and-reinvention-decadence" 	>Modernism and the Reinvention of Decadence</a></em> (Cambridge University Press, 2015)</h4>
+<h4>Vincent Sherry, <em> <a href="http://www.cambridge.org/us/academic/subjects/literature/english-literature-1900-1945/modernism-and-reinvention-decadence" >Modernism and the Reinvention of Decadence</a></em> (Cambridge University Press, 2015)</h4>
 <p><i>Modernism and the Reinvention of Decadence</i> challenges
 	conventional modernist literary history by tracing the multiple
 	impacts and influences of decadent aesthetics, and cuts an original
@@ -2051,9 +2049,10 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 </p>
 <hr />
 <h1>2016 MSA Prize for a First Book</h1>
-<h4>Hannah Freed-Thall</strong>'s <em><a href="https://global.oup.com/academic/product/spoiled-distinctions-9780190201029?cc=ca&lang=en&" > Spoiled Distinctions: Aesthetics and the Ordinary in French Modernism </a></em> (New York: Oxford University
+<h4>Hannah Freed-Thall, <em><a href="https://global.oup.com/academic/product/spoiled-distinctions-9780190201029?cc=ca&lang=en&" >Spoiled Distinctions: Aesthetics and the Ordinary in French Modernism </a></em> (New York: Oxford University
 	Press, 2015)</h4>
-<img src="https://global.oup.com/academic/covers/pop-up/9780190201029" alt="" width="100" height="150" align="right" />Elegantly conceived and beautifully written,
+<img src="https://global.oup.com/academic/covers/pop-up/9780190201029" alt="" width="100" height="150" align="right" />
+<p>Elegantly conceived and beautifully written,
 	Hannah Freed-Thall’s <i>Spoiled Distinctions</i> examines French
 	modernism’s aesthetic preoccupation with the commonplace and
 	everyday. Through its analytically astute engagements with language
@@ -2073,7 +2072,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <h1>2016 MSA Prize for a First Book Shortlist</h1>
 <!-- FIRST NOMINEE -->
 <img src="https://global.oup.com/academic/covers/pop-up/9780199844715" alt="" width="100" height="150" align="right" />
-<h4>C. D. Blanton, <em> <a 	href="https://global.oup.com/academic/product/epic-negation-9780199844715?cc=ca&lang=en&" 	>Epic Negation: The Dialectical Poetics of Late 	Modernism </a></em> (New York: Oxford University Press, 2015)</h4>
+<h4>C. D. Blanton, <em> <a href="https://global.oup.com/academic/product/epic-negation-9780199844715?cc=ca&lang=en&" >Epic Negation: The Dialectical Poetics of Late Modernism </a></em> (New York: Oxford University Press, 2015)</h4>
 <p>With great theoretical and philosophical virtuosity, C. D. Blanton
 	recalibrates the interpretive and historical possibilities of late
 	modernist poetics. <i>Epic Negation</i> convincingly reconsiders
@@ -2097,7 +2096,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 
 <!-- THIRD NOMINEE -->
 <img src="https://cup-us.imgix.net/covers/9780231173520.jpg?auto=format&w=350" alt="" width="100" height="150" align="right"  />
-<h4>Steven S. Lee, <em> <a 	href="https://cup.columbia.edu/book/the-ethnic-avant-garde/9780231173520" 	>The Ethnic Avant-Garde: Minority Cultures and World 	Revolution </a></em> (New York: Columbia University Press, 2015)</h4>
+<h4>Steven S. Lee, <em> <a href="https://cup.columbia.edu/book/the-ethnic-avant-garde/9780231173520" >The Ethnic Avant-Garde: Minority Cultures and World Revolution </a></em> (New York: Columbia University Press, 2015)</h4>
 <p>In <i>The Ethnic Avant-Garde</i>, Steven S. Lee considers a moment in
 	the 1920s and 30s when minorities could envision themselves at the
 	forefront of both artistic innovation and cultural revolution.
@@ -2118,7 +2117,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	exceptionalism. </p>
 <!-- FOURTH NOMINEE -->
 <img src="https://fordhampress.com/media/catalog/product/cache/f1c73e80d0aea401d0cf65b44b80f0c0/9/7/9780823267811_2.jpg" alt="" width="100" height="150" align="right" />
-<h4>Nicole Rizzuto, <em> <a 	href="https://fordhampress.com/insurgent-testimonies-hb-9780823267811.html" 	>Insurgent Testimonies: Witnessing Colonial Trauma in 	Modern and Anglophone Literature </a></em> (New York: Fordham University Press, 2015)</h4>
+<h4>Nicole Rizzuto, <em> <a href="https://fordhampress.com/insurgent-testimonies-hb-9780823267811.html" >Insurgent Testimonies: Witnessing Colonial Trauma in Modern and Anglophone Literature </a></em> (New York: Fordham University Press, 2015)</h4>
 <p><i>Insurgent Testimonies</i> challenges the temporal and territorial
 	boundaries of modernism in utterly compelling ways. With a
 	methodological vocabulary that synthesizes incisive close readings
@@ -2182,7 +2181,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 
 <!-- FIRST NOMINEE -->
 <img src="https://global.oup.com/academic/covers/pop-up/9780199988297" alt="" width="100" height="150" align="right" />
-<h4>Mary Chapman, <em> <a 	href="http://ukcatalogue.oup.com/product/9780199988297.do" 	>Making News: Suffrage Print Culture and US Modernism </a></em> (Oxford)</h4>
+<h4>Mary Chapman, <em> <a href="http://ukcatalogue.oup.com/product/9780199988297.do" >Making News: Suffrage Print Culture and US Modernism </a></em> (Oxford)</h4>
 <p>In a richly historical, impeccably researched analysis of suffrage
 	literature, Mary Chapman argues both that the 19th amendment was
 	ratified because women in the U.S. developed an innovative and
@@ -2207,7 +2206,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 
 <!-- THIRD NOMINEE -->
 <img src="https://cup-us.imgix.net/covers/9780231164337.jpg?auto=format&w=350" alt="" width="100" height="150" align="right"  />
-<h4>Jennifer Scappettone, <em> <a 	href="https://cup.columbia.edu/book/killing-the-moonlight/9780231164337/" 	>Killing the Moonlight: Modernism in Venice </a></em> (Columbia)</h4>
+<h4>Jennifer Scappettone, <em> <a href="https://cup.columbia.edu/book/killing-the-moonlight/9780231164337/" >Killing the Moonlight: Modernism in Venice </a></em> (Columbia)</h4>
 <p>In <i>Killing the Moonlight</i>, Jennifer Scappettone performs a
 	scholarly quarry of a city fabled in the literary history and
 	cultural memory of Europe. Excavating the social geology of the
@@ -2232,7 +2231,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	Scappettone reclaims so engagingly and persuasively.</p>
 <!-- FOURTH NOMINEE -->
 <img src="https://assets.cambridge.org/97813166/38002/large_cover/9781316638002i.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Anna Snaith, <em> <a href="https://www.cambridge.org/core/books/modernist-voyages/74E14211CC493AAD7467A5A32002AA93">Modernist 	Voyages: Colonial Women Writers in London </a></em> (Cambridge)</h4>
+<h4>Anna Snaith, <em> <a href="https://www.cambridge.org/core/books/modernist-voyages/74E14211CC493AAD7467A5A32002AA93">Modernist Voyages: Colonial Women Writers in London </a></em> (Cambridge)</h4>
 <p>In a thoroughly researched and wide-ranging analysis, Anna Snaith
 	extends ongoing discussions of colonialism, national identity, and
 	gender in analyzing the work of women writers who subvert the logic
@@ -2258,7 +2257,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	transnationalism, and postcolonial studies in new ways.</p>
 <!-- FIFTH NOMINEE -->
 <img src="http://ecx.images-amazon.com/images/I/51A%2BGSVJYgL._SX331_BO1,204,203,200_.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Matthew Stratton, <em> <a 	href="http://fordhampress.com/the-poitics-of-irony-in-american-modernism-cloth.html" 	>The Politics of Irony in American Modernism</a></em> (Fordham)</h4>
+<h4>Matthew Stratton, <em> <a href="http://fordhampress.com/the-poitics-of-irony-in-american-modernism-cloth.html" >The Politics of Irony in American Modernism</a></em> (Fordham)</h4>
 <p>In <i>The Politics of Irony in American Modernism</i>, Matthew
 	Stratton offers a history of attitudes and practices of “irony” in
 	modernist texts and, in the process, provides an anatomy of its
@@ -2308,7 +2307,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	Collection</h1>
 <!-- FIRST NOMINEE -->
 <img src="http://assets.cambridge.org/97811070/20252/cover/9781107020252.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Natalya Lusty and Julian Murphet, eds, 	<em><a 	href="http://www.cambridge.org/ca/academic/subjects/literature/english-literature-1900-1945/modernism-and-masculinity" 	>Modernism and Masculinity
+<h4>Natalya Lusty and Julian Murphet, eds, <em><a href="http://www.cambridge.org/ca/academic/subjects/literature/english-literature-1900-1945/modernism-and-masculinity" >Modernism and Masculinity
 	</a></em>(Cambridge)</h4>
 <p>A much-needed collection marking a crucial moment in the robust
 	critical history of feminist, gendered, and queer readings of
@@ -2325,7 +2324,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	culture and the search for masculine or androgynous aesthetic forms. </p>
 <!-- THIRD NOMINEE -->
 <img src="http://catalogimages.wiley.com/images/db/jimages/9781405186551.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Melba Cuddy-Keane, Adam Hammond, and Alexandra Peat, <em> <a 	href="http://ca.wiley.com/WileyCDA/WileyTitle/productCd-1405186550.html" 	>Modernism Keywords
+<h4>Melba Cuddy-Keane, Adam Hammond, and Alexandra Peat, <em> <a href="http://ca.wiley.com/WileyCDA/WileyTitle/productCd-1405186550.html" >Modernism Keywords
 	</a></em>(Wiley-Blackwell)</h4>
 <p>Adapting Raymond Williams methods from <i>Keywords: A Vocabulary of Culture and Society</i> to what they call “written modernism,”
 	this volume’s authors construct rich and engaging entries on
@@ -2344,7 +2343,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	remarkably fun to read.</p>
 <!-- FOURTH NOMINEE -->
 <img src="http://assets.cambridge.org/97805218/97341/cover/9780521897341.jpg" alt="" width="100" height="150" align="right"  />
-<h4>Sandra Spanier, Albert J. DeFazio III, and Robert W. Trogdon, eds, <em> <a 	href="http://www.cambridge.org/ca/academic/subjects/literature/american-literature/letters-ernest-hemingway-volume-2" 	>The Letters of Ernest Hemingway, 1923-25 </a></em> (Cambridge)</h4>
+<h4>Sandra Spanier, Albert J. DeFazio III, and Robert W. Trogdon, eds, <em> <a href="http://www.cambridge.org/ca/academic/subjects/literature/american-literature/letters-ernest-hemingway-volume-2" >The Letters of Ernest Hemingway, 1923-25 </a></em> (Cambridge)</h4>
 <p>This impressive second volume of Ernest Hemingway’s letters will
 	reshape and deepen our understanding of the writer’s activities
 	during the crucial years of 1923-5, the period responsible for <i>In Our Time</i> and <i>The Sun also Rises</i>. Not only that, the
@@ -2360,7 +2359,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	this significant work of scholarship.</p>
 <!-- FIFTH NOMINEE -->
 <img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-137-32094-0?as=webp" alt="" width="100" height="150" align="right"  />
-<h4>Mary Wilson and Kerry L. Johnson, eds, <em> <a 	href="https://link.springer.com/book/10.1057/9781137320940" 	>Rhys Matters: New Critical Perspectives </a></em>(Palgrave Macmillan)</h4>
+<h4>Mary Wilson and Kerry L. Johnson, eds, <em> <a href="https://link.springer.com/book/10.1057/9781137320940" >Rhys Matters: New Critical Perspectives </a></em>(Palgrave Macmillan)</h4>
 <p>Despite the fact that Jean Rhys has become a central figure in many
 	significant debates in contemporary modernist studies (e.g. in
 	women’s writing, globalization, post-colonialism), this is the first
@@ -2374,7 +2373,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	modernisms.</p>
 <!-- SIXTH NOMINEE -->
 <img src="https://global.oup.com/academic/covers/pop-up/9780199937660" alt="" width="100" height="150" align="right"  />
-<h4>Mark Antliff and Scott W. Klein, eds, <em> <a 	href="http://ukcatalogue.oup.com/product/9780199937660.do" 	>Vorticism: New Perspectives
+<h4>Mark Antliff and Scott W. Klein, eds, <em> <a href="http://ukcatalogue.oup.com/product/9780199937660.do" >Vorticism: New Perspectives
 	</a></em>(Oxford)</h4>
 <p>A beautifully produced volume that will surely become the definitive
 	collection of essays on the Vorticist movement, discussing all
@@ -2420,7 +2419,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <!-- 2014 HONORABLE MENTIONS -->
 <h3>Honorable Mentions</h3>
 <img src="https://www.ucpress.edu/_next/image?url=https%3A%2F%2Fwebfiles.ucpress.edu%2Fcoverimage%2Fisbn13%2F9780520272460.jpg&w=640&q=90" alt="Denise Levertov" width="100" height="150" align="right" />
-<h4>Donna Krolik Hollenberg,<em> <a href="https://www.ucpress.edu/books/a-poets-revolution/hardcover" 	>A Poet&rsquo;s Revolution: The Life of Denise 	Levertov</a></em> (U of California P)</h4>
+<h4>Donna Krolik Hollenberg,<em> <a href="https://www.ucpress.edu/books/a-poets-revolution/hardcover" >A Poet&rsquo;s Revolution: The Life of Denise Levertov</a></em> (U of California P)</h4>
 <p>This is an authoritative, thoroughly researched, and moving biography
 	of a major poet&rsquo;s life and work. Donna Hollenberg traces
 	several strands of Levertov&rsquo;s career: her poetry&rsquo;s
@@ -2437,8 +2436,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	complex biography that offers a rich foundation for future study of
 	Levertov&rsquo;s life and work. </p>
 
-<img src="/https://cup-us.imgix.net/covers/9780231156943.jpg?auto=format&w=350" alt="Prose of the World" width="100" height="150" align="right"  />
-<h4>Saikat Majumdar,<em> <a 	href="https://cup.columbia.edu/book/978-0-231-15694-3/prose-of-the-world" 	>Prose of the World: Modernism and the Banality of 	Empire</a></em> (Columbia)</h4>
+<img src="https://cup-us.imgix.net/covers/9780231156943.jpg?auto=format&w=350" alt="Prose of the World" width="100" height="150" align="right"  />
+<h4>Saikat Majumdar,<em> <a href="https://cup.columbia.edu/book/978-0-231-15694-3/prose-of-the-world" >Prose of the World: Modernism and the Banality of Empire</a></em> (Columbia)</h4>
 <p><em>Prose of the World</em> deftly reveals the oppressive stratagems
 	of boredom engendered by colonialists in order to aggrandize their
 	own glamorous yearnings. With another turn of the screw, it reveals
@@ -2456,7 +2455,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	adventure in literary criticism. </p>
 
 <img src="https://supress.sites-pro.stanford.edu/sites/supress/files/styles/breakpoint_sm_1x/public/media/covers/22344.jpg?itok=f85cmdgS" alt="Slow Print" width="100" height="150" align="right" />
-<h4>Elizabeth Carolyn Miller,<em> <a href="https://www.sup.org/books/literary-studies-and-literature/slow-print">Slow Print: 	Literary Radicalism and Late Victorian Print Culture</a></em> (Stanford)</h4>
+<h4>Elizabeth Carolyn Miller,<em> <a href="https://www.sup.org/books/literary-studies-and-literature/slow-print">Slow Print: Literary Radicalism and Late Victorian Print Culture</a></em> (Stanford)</h4>
 <p><em>Slow Print</em> offers a rich, meticulously researched, clear,
 	and thought-provoking trajectory of &ldquo;long-modernism&rdquo; in
 	late-Victorian radical print culture. Victorian radicals seeking an
@@ -2486,8 +2485,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 
 <img src="https://www.press.jhu.edu/sites/default/files/styles/large/public/covers/9781421409627.jpg" alt="Collecting Modernism" width="173" height="245" align="right" />
 
-<h4>Jeremy Braddock, <em><a href="https://www.press.jhu.edu/books/title/10454/collecting-modernist-practice">Collecting as Modernist Practice</a></em> (Johns Hopkins University Press) as
-	the winner of the 2013 Modernist Studies Association book prize.</h4>
+<h4>Jeremy Braddock, <em><a href="https://www.press.jhu.edu/books/title/10454/collecting-modernist-practice">Collecting as Modernist Practice</a></em> (Johns Hopkins University Press)</h4>
 <p>
 	<em><strong>Collecting as Modernist Practice</strong></em> is an
 	elegantly written, thoughtfully argued, and captivating book. It
@@ -2512,9 +2510,9 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	winner, and those titles – any of which were worthy of the
 	distinction conferred by the prize – were:</p>
 <ul>
-	<li> David Kurnick, <em><strong><a 		href="https://press.princeton.edu/books/paperback/9780691153162/empty-houses" 		>Empty House: Theatrical Failure and the 	Novel</a></strong></em> (Princeton University Press)</li>
-	<li> Lisa Siraganian, <strong><em><a 		href="https://global.oup.com/academic/product/modernisms-other-work-9780190255268?cc=ca&lang=en&" 		>Modernism’s Other Work: The Art Object’s Political 		Life</a></em></strong> (Oxford University Press)</li>
-	<li> Mark Wolleager with Matt Eatough (eds.), <em><strong><a 		href="https://global.oup.com/academic/product/the-oxford-handbook-of-global-modernisms-9780195338904?cc=ca&lang=en&" 		>The Oxford Handbook of Global 	Modernisms</a></strong></em> (Oxford University Press)</li>
+	<li> David Kurnick, <em><strong><a href="https://press.princeton.edu/books/paperback/9780691153162/empty-houses" >Empty House: Theatrical Failure and the Novel</a></strong></em> (Princeton University Press)</li>
+	<li> Lisa Siraganian, <strong><em><a href="https://global.oup.com/academic/product/modernisms-other-work-9780190255268?cc=ca&lang=en&" >Modernism’s Other Work: The Art Object’s Political Life</a></em></strong> (Oxford University Press)</li>
+	<li> Mark Wolleager with Matt Eatough (eds.), <em><strong><a href="https://global.oup.com/academic/product/the-oxford-handbook-of-global-modernisms-9780195338904?cc=ca&lang=en&" >The Oxford Handbook of Global Modernisms</a></strong></em> (Oxford University Press)</li>
 </ul>
 <p><strong> MSA Prize Committee: </strong><br /> Mark Morrisson, Penn
 	State University (Chair) <br /> Thadious Davis, University of
@@ -2523,8 +2521,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <hr />
 
 <h1>2012 MSA Book Prize</h1>
-<h4>Christopher GoGwilt, <em><a href="https://global.oup.com/academic/product/the-passage-of-literature-9780199751624" >The Passage of Literature: Genealogies of Modernism in Conrad, Rhys, and Pramoedya</a></em> (Oxford UP).</h4>
-<img src="https://global.oup.com/academic/covers/pop-up/9780199751624" alt="passage" 	width="173" height="245" align="left" />
+<h4>Christopher GoGwilt, <em><a href="https://global.oup.com/academic/product/the-passage-of-literature-9780199751624" >The Passage of Literature: Genealogies of Modernism in Conrad, Rhys, and Pramoedya</a></em> (Oxford UP)</h4>
+<img src="https://global.oup.com/academic/covers/pop-up/9780199751624" alt="passage" style="margin:1em" width="173" height="245" align="left" />
 <p><em><strong>The Passage of Literature</strong></em> is a brilliant,
 	erudite&nbsp;analysis of the linguistic emergence of a
 	socio-cultural modernism in a&nbsp;transoceanic&nbsp;context, with
@@ -2602,7 +2600,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	interested in the trans-cultural movement of modernist ideas and in
 	particular the development of modernism in non-Western contexts. </p>
 
-<h4>Annalisa Zox-Weaver. Zox-Weaver's <em>Women Modernists and Fascism</em> (Cambridge UP) </h4>
+<h4>Annalisa Zox-Weaver, <em>Women Modernists and Fascism</em> (Cambridge UP) </h4>
 <p><em>Women Modernists</em> is a sophisticated, eye-opening, and
 	unique work dealing with a number of currently highly visible issues
 	in modernist studies. This excellent interdisciplinary study
@@ -2629,8 +2627,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 
 <h1>2011 MSA Book Prize</h1>
 
-<h4>Michael Rubenstein, <a href="https://undpress.nd.edu/9780268040307/public-works/"><em>Public Works: 	Infrastructure, Irish Modernism, and the 	Postcolonial</em></a></strong> (Notre Dame)</h4>
-<img src="https://notredamepress-us.imgix.net/covers/9780268040307.jpg?auto=format&w=298&dpr=2&q=100" alt="Public Works" width="100" height="146" class="right" />
+<h4>Michael Rubenstein, <a href="https://undpress.nd.edu/9780268040307/public-works/"><em>Public Works: Infrastructure, Irish Modernism, and the Postcolonial</em></a> (Notre Dame)</h4>
+<img src="https://notredamepress-us.imgix.net/covers/9780268040307.jpg?auto=format&w=298&dpr=2&q=100" alt="Public Works" width="100" height="146" align="right" />
 
 <p>According to Michael	Rubenstein, &ldquo;Irish modernism was largely a
 	literary engagement with the problem of how to forge an Irish
@@ -2660,7 +2658,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 
 <h3>Honorable Mention</h3>
 
-<h4>Mark Goble, <em><a href="http://cup.columbia.edu/book/978-0-231-14670-8/beautiful-circuits" 	>Beautiful Circuits: Modernism and the Mediated 	Life</a></em> (Columbia)</h4>
+<h4>Mark Goble, <em><a href="http://cup.columbia.edu/book/978-0-231-14670-8/beautiful-circuits" >Beautiful Circuits: Modernism and the Mediated Life</a></em> (Columbia)</h4>
 <p>&ldquo;The
 	romantic,&rdquo; wrote Henry James of his early novel <em>The American</em>, stands for &ldquo;the things that reach us only
 	through the beautiful circuit and subterfuge of our thought and our
@@ -2698,7 +2696,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 
 <h1>2010 MSA Book Prize</h1>
 <h4>Co-awarded to Enda Duffy, <em><a href="https://www.dukeupress.edu/the-speed-handbook">The Speed Handbook: Velocity, Pleasure, Modernism</a></em> and Eric Hayot, <em><a href="https://global.oup.com/academic/product/the-hypothetical-mandarin-9780195382495?cc=ca&lang=en&">The Hypothetical Mandarin</a></em></h4>
-<img src="https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/63d6e5a2-7eb7-4867-9e63-e4a05c64adce/978-0-8223-4442-1_pr.jpg?fm=webp&auto=format" alt="Speed Handbook" width="100" height="146" class="right" />
+<img src="https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/63d6e5a2-7eb7-4867-9e63-e4a05c64adce/978-0-8223-4442-1_pr.jpg?fm=webp&auto=format" alt="Speed Handbook" width="100" height="146" align="right" />
 <p><strong>Enda Duffy's</strong>
 	daring and inventive work matches exquisite readings of literature,
 	film, and advertisements to a sophisticated theory of space that
@@ -2719,7 +2717,9 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	Committee commends this book for its critical acumen, its daring
 	sweep, and its insistence on the continuing urgency of modernism as
 	a cultural, political, and aesthetic project.</p>
-<img src="https://global.oup.com/academic/covers/pop-up/9780195382495" alt="Hypothetical Mandarin" width="100" height="146" class="right" />"What is the relative
+
+<img src="https://global.oup.com/academic/covers/pop-up/9780195382495" alt="Hypothetical Mandarin" width="100" height="146" align="right" />
+<p>"What is the relative
 	worth to you of harm done to a Chinese stranger?" <strong>Eric Hayot's</strong> brilliant and wide-ranging monograph <em><strong>The Hypothetical Mandarin</strong></em> sees
 	Adam Smith's thought experiment about conscience as the starting
 	point for "a crucial figure of European thought over the last two
@@ -2758,9 +2758,9 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 <h1>2009 MSA Book Prize</h1>
 
 <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1446692811i/4915341.jpg" alt="New York Nocturne" width="100"
-	height="146" class="right" />
+	height="146" align="right" />
 
-<h4>William Chapman Sharpe, New York Nocturne: The City After Dark in Literature, Painting, and Photography</strong></em>
+<h4>William Chapman Sharpe, <em>New York Nocturne: The City After Dark in Literature, Painting, and Photography</em>
 	(Princeton University Press) </h4>
 
 <p>William Sharpe states that the “first dark glimmer”
@@ -2793,8 +2793,8 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 
 <h1>2008 MSA Book Prize</h1>
 <img src="https://benjamins.com/covers/3d_reflection_600w/chlel.21.hb.png" alt="cover of book" width="100"
-	height="166" class="right" />
-<p>The 2008 MSA book prize was awarded to volumes 1 and 2 of <em><strong>modernism</strong></em>(John Benjamins
+	height="166" align="right" />
+<p>The 2008 MSA book prize was awarded to volumes 1 and 2 of <em><strong>Modernism</strong></em>(John Benjamins
 	Publishing Co, 2007), edited by <strong>Astradur Eysteinsson</strong> and <strong>Vivian Liska</strong>, a
 	project first set in motion in the 1980s. The editors explain in
 	their introduction that, between the time the book was first
@@ -2834,7 +2834,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	it&rsquo;s a collection taking an unusual shape, having unusually
 	high ambitions, and succeeding unusually well in achieving its
 	goals. <em><strong>Crowds</strong> (</em>Stanford University Press,
-	2006), edited by Jeffrey <strong>Schnapp</strong> and <strong>Matthew Tiews</strong>, aims to survey the idea of the
+	2006), edited by <strong>Jeffrey Schnapp</strong> and <strong>Matthew Tiews</strong>, aims to survey the idea of the
 	crowd across history and geography, not with the goal of being
 	exhaustive, precisely, but with the idea of being as wide-ranging as
 	possible. Thus we have essays on the myth of the &ldquo;Populus
@@ -2843,8 +2843,7 @@ and Politics, 1940–1978</i> opens with a striking account of ten-year old futu
 	crowds, on mid-century sociology and the lonely crowd, on
 	mentalities of the market, and on many other topics. </p>
 
-<img src="https://pictures.abebooks.com/isbn/9780804754804-us.jpg" alt="cover of book" width="100"
-	height="100" class="right bookborder" />
+<img src="https://pictures.abebooks.com/isbn/9780804754804-us.jpg" alt="cover of book" width="100" height="100" align="right" />
 
 <p>But there&rsquo;s much more to <em>Crowds</em> than breadth. For one
 	thing, the contributions are of an exceptionally high
@@ -2881,7 +2880,7 @@ Felski<br /> Jordana Mendelson <br />
 	street and the domestic interior, Rosner gets a lot done in this
 	carefully crafted book.</p>
 <img src="https://cup-us.imgix.net/covers/9780231133043.jpg?auto=format&w=350" alt="cover of book" width="100"
-	height="150" class="right bookborder" />
+	height="150" align="right" />
 <p>It is a rare thing to be seduced by a table of contents, but the
 	orchestration of chapters beginning with &quot;Kitchen Table
 	Modernism,&quot; and on through &quot;Frames,&quot;
@@ -2920,7 +2919,7 @@ Felski<br /> Jordana Mendelson <br />
 	fresh readings of several American novelists, whose encounters with
 	mechanical reproduction become vivid, and in some cases visible for
 	the first time, thanks to North's exhaustive archival work. <br />
-	<img src="https://global.oup.com/academic/covers/pop-up/9780195332933" alt="cover of book" width="109" height="165" class="right bookborder" /><br /> The
+	<img src="https://global.oup.com/academic/covers/pop-up/9780195332933" alt="cover of book" width="109" height="165" align="right" /><br /> The
 	rich mix of materials in <span style="font-style: italic">Camera Works</span> is extraordinary. Not only does it uncover the
 	significance of photography to the work of a stunning range of
 	familiar artists such as Ernest Hemingway, Marcel Duchamp, and Pablo
@@ -2954,7 +2953,7 @@ Jessica Burstein<br /> Rebecca Walkowitz </p>
 <p>At the <a href="https://web.archive.org/web/20051105025224/http://www.luc.edu/msachicago/">2005 MSA Conference in Chicago</a>, the first annual MSA Book Prize was awarded to <strong>Michael Leja</strong> for <em><strong>Looking Askance: Skepticism and American Art from Eakins to Duchamp</strong></em> (University of California Press, 2004). In
 	awarding the prize, the prize committee wrote:</p>
 <img src="https://m.media-amazon.com/images/I/41PMI0qh3hL._AC_UF1000,1000_QL80_.jpg" alt="book cover" width="100"
-	height="142" class="right bookborder" />
+	height="142" align="right" />
 <p><em>Looking Askance</em> opens up new territory in modernist studies
 	by shifting the focus from artists to audiences and relocating
 	modernism in everyday practices in and about early twentieth-century
